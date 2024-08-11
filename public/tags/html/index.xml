@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Html on Example Site</title>
+        <title>Html on maxcini blog</title>
         <link>http://localhost:1313/tags/html/</link>
-        <description>Recent content in Html on Example Site</description>
+        <description>Recent content in Html on maxcini blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright>
+        <copyright>maxcini</copyright>
         <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
         <link>http://localhost:1313/p/markdown-syntax-guide/</link>
