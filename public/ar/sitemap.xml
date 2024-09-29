@@ -29,11 +29,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/ar/post/"
                 />

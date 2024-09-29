@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: "2019-02-28"
+description:
+date:
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: "2020-10-09"
+lastmod:
 menu:
   main:
     weight: -90
@@ -15,20 +15,18 @@ menu:
       icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+If you're like me, you like to write everything down... to remeber things, record milestones, and share key learnings with others. This website serves as storage for my ideas and projects.
 
-Hugo makes use of a variety of open source projects including:
+My goal for this site is to improve my communication skills through the practice of writing. Topics of interests include cars, health and fitness, personal finance, and more.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+I hope it brings you value... or comedy. Enjoy :)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## About Max Mancini:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I became a mechanical engineer because I like to build cool stuff. Also because I like math.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+>"Started with the Legos, now we're here." 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I am passionate about mobility, clean energy technology, and entrepreneurship. In my free time, I most commonly like to lift weights and walk the dog. Currenlty, I am working towards a master's degree in engineering.
+
+My other interests include: running, mountain biking, fishing for lunkers, deep carving snowboarding, and traveling. I support both types of football, specifically Manchester United and the Michigan Wolverines.

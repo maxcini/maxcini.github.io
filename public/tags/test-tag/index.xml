@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test-Tag on maxcini</title>
+        <link>http://localhost:1313/tags/test-tag/</link>
+        <description>Recent content in Test-Tag on maxcini</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>maxcini</copyright>
+        <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/test-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>test post</title>
+        <link>http://localhost:1313/p/test-post/</link>
+        <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/test-post/</guid>
+        <description>&lt;img src="http://localhost:1313/SDsunset.JPG" alt="Featured image of post test post" /&gt;&lt;h1 id=&#34;san-diego&#34;&gt;San Diego
+&lt;/h1&gt;&lt;h2 id=&#34;california-sunset&#34;&gt;California Sunset
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SDsunset.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;sunset&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mom-and-i-by-the-beach&#34;&gt;Mom and I by the beach
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/test-post/SDmaxandmom.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;maxandmom&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dad-by-waterfall-at-zoo&#34;&gt;Dad by Waterfall at Zoo
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/test-post/SDdadwaterfall.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;dadwaterfall&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;San Diego was Relax to the Max! What a vibe, man.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
