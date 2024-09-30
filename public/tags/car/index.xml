@@ -13,43 +13,112 @@
         <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/why-i-still-drive-a-2005-ford-escape/</guid>
-        <description>&lt;img src="http://localhost:1313/post/car-TCO/escape.jpeg" alt="Featured image of post Why I still drive a 2005 Ford Escape" /&gt;&lt;p&gt;I&amp;rsquo;ve been driving a 2005 Ford Escape since highschool because it only costs me $167/mo&amp;hellip; for everything.&lt;/p&gt;
-&lt;p&gt;I get questioned alot why I still drive my car; my family think its unsafe, my friends think its funny, and my coworkers think its lame (I work for an automotive company that&amp;rsquo;s not Ford). The answer is because its cheap!&lt;/p&gt;
-&lt;p&gt;Now of course, driving around an old, paid off vehicle with moderately good fuel efficiency will always be more cost effective mode of transportation than purchasing a new vehicle. opportunity cost, riding around by bike&lt;/p&gt;
-&lt;h2 id=&#34;total-cost-of-vehicle-ownership-calculation&#34;&gt;Total Cost of Vehicle Ownership Calculation
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;include broken down calculation here&lt;/li&gt;
-&lt;li&gt;make an excel spreadsheet detialing total cost of ownership for others to caluclate their car&amp;rsquo;s TCO&lt;/li&gt;
-&lt;li&gt;cost per measured unit is usually best for life cycle cost comparison, in this case $/mi (what you pay for what you get)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;bad-news-bears&#34;&gt;Bad News Bears
+        <description>&lt;img src="http://localhost:1313/post/car-TCO/escape.jpeg" alt="Featured image of post Why I still drive a 2005 Ford Escape" /&gt;&lt;p&gt;I&amp;rsquo;ve been driving a 2005 Ford Escape since highschool because it only costs me $170/mo&amp;hellip; for everything.&lt;/p&gt;
+&lt;p&gt;I get questioned a lot why I still drive my car; my family think its unsafe, my friends think its funny, and my coworkers think its lame (I work for an automotive company that&amp;rsquo;s not Ford). The answer is because its cheap!&lt;/p&gt;
+&lt;p&gt;Honestly, if it were up to me, I&amp;rsquo;d ride my bike everywhere (like I did in college). But unfortunately, Michigan being home to the auto industry means public transportation and bike infastrucute is poo poo. A car is essential to get around here.&lt;/p&gt;
+&lt;p&gt;Now of course, driving around in an old, paid off vehicle with moderately good fuel efficiency will always be the most cost effective mode of transportation by car, especially considering the opportunity cost of purchasing a new vehicle. However, I still wanted to see exactly just how much I&amp;rsquo;m paying, and subsequently saving, by continuing to drive my old car.&lt;/p&gt;
+&lt;h2 id=&#34;total-cost-of-ownership&#34;&gt;Total Cost of Ownership
+&lt;/h2&gt;&lt;p&gt;The Escape is a family hand-me-down, so technically, I didn&amp;rsquo;t pay anything for it. However, I will include the price of the vehicle in this analysis, since cars aren&amp;rsquo;t free:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Item:&lt;/th&gt;
+&lt;th&gt;Annual Cost:&lt;/th&gt;
+&lt;th&gt;Notes:&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Car&lt;/td&gt;
+&lt;td&gt;$1,579&lt;/td&gt;
+&lt;td&gt;$30k (new in 2005) / 24yrs life&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fuel&lt;/td&gt;
+&lt;td&gt;$1,040&lt;/td&gt;
+&lt;td&gt;~$40/biweekly for ~250mi of driving at $3.20/gal&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Insurance&lt;/td&gt;
+&lt;td&gt;$700&lt;/td&gt;
+&lt;td&gt;PLPD, classified as station wagon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Registration&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maintenance&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Repair&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Cost Summary:&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Total Annual &lt;/td&gt;
+        &lt;td&gt; $3,619 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Total Monthly&lt;/td&gt;
+        &lt;td&gt; $302 &lt;/td&gt;
+        &lt;td&gt;or $170/mo excluding price of car&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Cost per Mile&lt;/td&gt;
+        &lt;td&gt; $0.56&lt;/td&gt;
+        &lt;td&gt;cost per meausred unit = $3,619/(250mi*52week/2)&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;Since the cost per month is based on current gas prices (~3.20/gal Oct 2024) and my driving habits (will vary with work assignments), it is subject to change. Additionally, the annual cost of the car, which is also the most costly expense, will decrease the longer it lasts.&lt;/p&gt;
+&lt;p&gt;As such, a cost per measured unit (cost per mile) is a nice metric to use for future apples to apples comparisons of cost. The repair and maintenance costs also may be larger than estimated, but I haven&amp;rsquo;t run into a super costly repair yet (knock on wood).&lt;/p&gt;
+&lt;h2 id=&#34;the-good-the-bad-and-the-ugly&#34;&gt;The Good, The Bad, and The Ugly
 &lt;/h2&gt;&lt;p&gt;The Beast has had its fair share of problems:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Exhaust leak - pipe broke in half due to rust (car is parked in driveway year-round). The fix = some sheet metal and 2 hose clamps. Although, the car is still louder than normal, hence its nickname, &amp;ldquo;The Beast.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Broke rear shock mount - degraded wheel well seal lead to excessive rust from road spray, which seperated the shock mount from the body of the vehicle. The fix = replacemnet shock mount bracket + custom aluminum splint to repair vehicle body and provide adequete mounting surface (thanks Uncle Tom!).&lt;/li&gt;
 &lt;li&gt;Electrical issues - I think there is an electrical leak somewhere. The fix = disconnect the battery manually for prolonged periods (&amp;gt;few days) of not driving the vehicle.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;the-good-life&#34;&gt;The Good Life
-&lt;/h2&gt;&lt;p&gt;I can live with the ugly because the benefits make it worth it:&lt;/p&gt;
+&lt;p&gt;Although, it has its benefits too:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cheap insurance; my insurance (somehow) classifies the car as a station wagon, and because the car is low value, it&amp;rsquo;s not worth full coverage so I have the cheapest plan (PLPD).&lt;/li&gt;
 &lt;li&gt;I dont care if anyone dings or scratches the car. It already has a bunch of scratches, but that doesn&amp;rsquo;t even compare to the rust on the underbody.&lt;/li&gt;
 &lt;li&gt;No concerns about theft. In fact (I probably shouldn&amp;rsquo;t tell you this) but I almost never lock my car - who would want to steal my old POS in a lot full of newer, more valuable cars?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;when-to-upgrade-your-car&#34;&gt;When to Upgrade Your Car?
-&lt;/h2&gt;&lt;p&gt;In my opinion, it&amp;rsquo;s time to upgrade your car when it no longer meets your requirements. I was hesitant to say desired characteristics, because consumer preferences are not always &amp;ldquo;requirements.&amp;rdquo; However, I think we will always desire the next best vehicle in comparison to what we currently drive, despite if we are currently satisfied.&lt;/p&gt;
-&lt;p&gt;I think you already have an idea of what my ideal vehicle criteria is:&lt;/p&gt;
+&lt;h2 id=&#34;when-to-upgrade&#34;&gt;When to Upgrade?
+&lt;/h2&gt;&lt;p&gt;In my opinion, it&amp;rsquo;s time to upgrade your car when it no longer meets your requirements. Consumer preferences are okay at vehicle selection, but I think we will always crave nicer stuff. As such, its important to decifer between needs and wants, and to avoid desired characteristics leading towards lifestyle creep.&lt;/p&gt;
+&lt;p&gt;All that being said, I really wish I could pull up to a function Paul Walker style every once in awhile. Anyways, I think you already have an idea of what my ideal vehicle criteria is:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Does it get me from point A to point B?&lt;/li&gt;
 &lt;li&gt;Is it safe?&lt;/li&gt;
 &lt;li&gt;Is it reliable (enough)?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;For me, I plan on driving my &amp;lsquo;05 Escape into the ground. It has it&amp;rsquo;s problems, but so far (knock on wood) The Beast has held up. There&amp;rsquo;s no incentive for me to upgrade at this time considering my Total Cost of Ownership will increase with the purchase of a new vehicle.&lt;/p&gt;
-&lt;p&gt;That being said, I wouldn&amp;rsquo;t be opposed of a well kept, good used car. After all, majority of millionaires drive used cars according to the Millionaire Next Door by Thomas Stanley and William Danko. The only major benefit I think could justify such purchase is that the &amp;lsquo;05 Escape is 2 decades old, and safety features have rapidly advanced. I never concern myself with things out of my control, but, if the worst were to happen, I suppose it would be smart to be in a safer car.&lt;/p&gt;
-&lt;h2 id=&#34;other&#34;&gt;Other
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;tips on leasing vs buying used vs buying new&lt;/li&gt;
-&lt;li&gt;in regards to gas vs electric cars, personally, I dont have a powertrain preference. I only care about getting from point A to point B that is safe, cheap, and reliable.&lt;/li&gt;
+&lt;p&gt;For me, I plan on driving my &amp;lsquo;05 Escape into the ground, literally. It checks all the boxes, and hasn&amp;rsquo;t proven to be unreliable other than the minor fixes it has needed over the past few years of operation.&lt;/p&gt;
+&lt;p&gt;While this yields the lowest cost solution financially, I do recognize the value of advanced safety systems in new cars. I like to think I&amp;rsquo;m a safe driver, and I suppose I&amp;rsquo;m willing to take the calculated risk of driving an older car.&lt;/p&gt;
+&lt;h2 id=&#34;what-about-evs&#34;&gt;What About EVs?
+&lt;/h2&gt;&lt;p&gt;I couldn&amp;rsquo;t end my first post about cars without bringing up electric vehicles. Afterall, working for a car company, this is what I get asked about most.&lt;/p&gt;
+&lt;p&gt;Im really not the best candidate to ask about this, since lmost any car I step into is nicer than mine. Having a reference point at rock bottom makes everything look nice.&lt;/p&gt;
+&lt;p&gt;Regardless, I personally do not have a powertrain preference. Looking back at my requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A to B? Yep, I dont have range anxiety because I dont have a reoccuring long distance commute.&lt;/li&gt;
+&lt;li&gt;Safe? Yep, for the most part. There has been some instances of thermal runaway of battery fires, so that can be a risk, but unlikely.&lt;/li&gt;
+&lt;li&gt;Reliable? Yep, I also have the luxury of access to chargers at work and could charge overnight on a Level 1 need be.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further investigation and cost analysis will be needed for EVs. I will say this, I did get the chance to drive a Cadillac Lyriq once, and you can bet it caught my attention.&lt;/p&gt;
+&lt;h2 id=&#34;final-note&#34;&gt;Final Note
+&lt;/h2&gt;&lt;p&gt;With all this car talk, I leave you to think about this - a good principle to follow is watch what people do, not what they say. According to the Millionaire Next Door, majority of millionaires drive used cars.&lt;/p&gt;
+&lt;p&gt;If you share the same principles as myself, finding a slighly used, well kept and maintained vehicle will almost always yield the best deal with the lowest cost of ownership. Because cars are such a large purchase, people ought to understand all cost associated with ownership.&lt;/p&gt;
+&lt;h1 id=&#34;end&#34;&gt;END
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;130k on the odometer&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>

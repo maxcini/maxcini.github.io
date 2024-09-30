@@ -50,7 +50,7 @@ params:
     avatar:
       enabled: true
       local: true
-      src: /assets/img/gv_proj.png
+      src: img/gv_proj.PNG
 
   article:
     math: false

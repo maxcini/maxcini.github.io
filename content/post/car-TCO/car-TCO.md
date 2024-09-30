@@ -23,7 +23,7 @@ The Escape is a family hand-me-down, so technically, I didn't pay anything for i
 | Item:        | Annual Cost: | Notes:                                        |
 | ------------ | ------------ | --------------------------------------------- |
 | Car          | $1,579       | $30k (new in 2005) / 24yrs life                             |
-| Fuel         | $1,040       | ~$40/biweekly for ~250mi driving at $3.20/gal |
+| Fuel         | $1,040       | ~$40/biweekly for ~250mi of driving at $3.20/gal |
 | Insurance    | $700         | PLPD, classified as station wagon             |
 | Registration | $100         |
 | Maintenance  | $100         |
@@ -100,3 +100,8 @@ Further investigation and cost analysis will be needed for EVs. I will say this,
 With all this car talk, I leave you to think about this - a good principle to follow is watch what people do, not what they say. According to the Millionaire Next Door, majority of millionaires drive used cars. 
 
 If you share the same principles as myself, finding a slighly used, well kept and maintained vehicle will almost always yield the best deal with the lowest cost of ownership. Because cars are such a large purchase, people ought to understand all cost associated with ownership. 
+
+
+
+# END
+- 130k on the odometer  
