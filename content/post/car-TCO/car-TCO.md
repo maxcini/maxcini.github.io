@@ -58,8 +58,10 @@ As such, a cost per measured unit (cost per mile) is a nice metric to use for fu
 The Beast has had its fair share of problems:
 
 - Exhaust leak - pipe broke in half due to rust (car is parked in driveway year-round). The fix = some sheet metal and 2 hose clamps. Although, the car is still louder than normal, hence its nickname, "The Beast."
-- Broke rear shock mount - degraded wheel well seal lead to excessive rust from road spray, which seperated the shock mount from the body of the vehicle. The fix = replacemnet shock mount bracket + custom aluminum splint to repair vehicle body and provide adequete mounting surface (thanks Uncle Tom!).
+- Broke rear shock mount - degraded wheel well seal lead to excessive rust from road spray, which seperated the shock mount from the body of the vehicle. The fix = replacement shock mount bracket + custom aluminum splint to repair vehicle body and provide adequete mounting surface (see photo below. also, thanks Uncle Tom!).
 - Electrical issues - I think there is an electrical leak somewhere. The fix = disconnect the battery manually for prolonged periods (>few days) of not driving the vehicle.
+
+![dadwaterfall](/post/car-TCO/shock_mount_repair.png)
 
 Although, it has its benefits too:
 
