@@ -1,7 +1,7 @@
 ---
 author: Max Mancini
 title: Why I still drive a 2005 Ford Escape
-date: 2024-09-29
+date: 2024-10-01
 description: I pay $300/mo to drive my car
 image: "/post/car-TCO/escape.jpeg"
 tags: ["Car"]
@@ -20,13 +20,13 @@ Now of course, driving around in an old, paid off vehicle with moderately good f
 
 The Escape is a family hand-me-down, so technically, I didn't pay anything for it. However, I will include the price of the vehicle in this analysis, since cars aren't free:
 
-| Item:        | Annual Cost: | Notes:                                        |
-| ------------ | ------------ | --------------------------------------------- |
-| Car          | $1,579       | $30k (new in 2005) / 24yrs life                             |
+| Item:        | Annual Cost: | Notes:                                           |
+| ------------ | ------------ | ------------------------------------------------ |
+| Car          | $1,579       | $30k (new in 2005) / 24yrs life                  |
 | Fuel         | $1,040       | ~$40/biweekly for ~250mi of driving at $3.20/gal |
-| Insurance    | $700         | PLPD, classified as station wagon             |
+| Insurance    | $700         | PLPD, classified as station wagon                |
 | Registration | $100         |
-| Maintenance  | $100         |
+| Maintenance  | $100         | 2x oil changes/yr at ~$50/ea                     |
 | Repair       | $100         |
 
 Cost Summary:
@@ -49,7 +49,7 @@ Cost Summary:
     </tr>
 </table>
 
-Since the cost per month is based on current gas prices (~3.20/gal Oct 2024) and my driving habits (will vary with work assignments), it is subject to change. Additionally, the annual cost of the car, which is also the most costly expense, will decrease the longer it lasts.
+Since the cost per month is based on current gas prices (~3.20/gal Oct 2024) and my driving habits (will vary with work assignments), it is subject to change. Additionally, the annual cost of the car, which also happens to be the most costly expense, will decrease the longer it lasts.
 
 As such, a cost per measured unit (cost per mile) is a nice metric to use for future apples to apples comparisons of cost. The repair and maintenance costs also may be larger than estimated, but I haven't run into a super costly repair yet (knock on wood).
 
@@ -69,7 +69,7 @@ Although, it has its benefits too:
 
 ## When to Upgrade?
 
-In my opinion, it's time to upgrade your car when it no longer meets your requirements. Consumer preferences are okay at vehicle selection, but I think we will always crave nicer stuff. As such, its important to decifer between needs and wants, and to avoid desired characteristics leading towards lifestyle creep. 
+In my opinion, it's time to upgrade your car when it no longer meets your requirements. Consumer preferences are okay at vehicle selection, but I think we will always crave nicer stuff. As such, its important to decifer between needs and wants, and to avoid desired characteristics leading towards lifestyle creep.
 
 All that being said, I really wish I could pull up to a function Paul Walker style every once in awhile. Anyways, I think you already have an idea of what my ideal vehicle criteria is:
 
@@ -77,31 +77,28 @@ All that being said, I really wish I could pull up to a function Paul Walker sty
 - Is it safe?
 - Is it reliable (enough)?
 
-For me, I plan on driving my '05 Escape into the ground, literally. It checks all the boxes, and hasn't proven to be unreliable other than the minor fixes it has needed over the past few years of operation. 
+For me, I plan on driving my '05 Escape into the ground, literally. It checks all the boxes, and hasn't proven to be unreliable other than the minor fixes it has needed over the past few years of operation. Afterall, it still has less than 140k miles clocked on the odometer. Im gonna squeeze every last drop out of this lemon!
 
-While this yields the lowest cost solution financially, I do recognize the value of advanced safety systems in new cars. I like to think I'm a safe driver, and I suppose I'm willing to take the calculated risk of driving an older car. 
+While this yields the lowest cost solution financially, I do recognize the value of advanced safety systems in new cars. I like to think I'm a safe driver, and I suppose I'm willing to take the calculated risk of driving an older car.
 
 ## What About EVs?
 
-I couldn't end my first post about cars without bringing up electric vehicles. Afterall, working for a car company, this is what I get asked about most. 
+I couldn't end my first post about cars without bringing up electric vehicles. Afterall, working for a car company, this is what I get asked about most.
 
-Im really not the best candidate to ask about this, since lmost any car I step into is nicer than mine. Having a reference point at rock bottom makes everything look nice. 
+Im really not the best candidate to ask about this, since almost any car I step into is nicer than mine. Having a reference point at rock bottom makes everything look nice.
 
 Regardless, I personally do not have a powertrain preference. Looking back at my requirements:
 
-- A to B? Yep, I dont have range anxiety because I dont have a reoccuring long distance commute. 
-- Safe? Yep, for the most part. There has been some instances of thermal runaway of battery fires, so that can be a risk, but unlikely. 
-- Reliable? Yep, I also have the luxury of access to chargers at work and could charge overnight on a Level 1 need be. 
+- A to B? Yep, I dont have range anxiety because I dont have a reoccuring long distance commute.
+- Safe? Yep, for the most part. There has been some instances of thermal runaway of battery fires, so that can be a risk, but is unlikely to occur.
+- Reliable? Yep, I also have the luxury of access to chargers at work and could charge overnight on a Level 1 need be.
 
-Further investigation and cost analysis will be needed for EVs. I will say this, I did get the chance to drive a Cadillac Lyriq once, and you can bet it caught my attention. 
+Further investigation and cost analysis will be needed for EVs. I will say this, I did get the chance to drive a Cadillac Lyriq once, and you can bet it caught my attention.
 
-## Final Note 
+## Final Note
 
-With all this car talk, I leave you to think about this - a good principle to follow is watch what people do, not what they say. According to the Millionaire Next Door, majority of millionaires drive used cars. 
+With all this car talk, I leave you to think about this - a good principle to follow is watch what people do, not what they say. According to the Millionaire Next Door, majority of millionaires drive used cars, or they buy new and keep them for a long time. Copying the people you want to be like (at least all of us could agree financially) is usually a pretty good strategy.
 
-If you share the same principles as myself, finding a slighly used, well kept and maintained vehicle will almost always yield the best deal with the lowest cost of ownership. Because cars are such a large purchase, people ought to understand all cost associated with ownership. 
+I think at the end of the day, people should just drive whatever makes them happy. Dont get caught up in the, "you better be driving a ferrari by 25 or your a loser" bs online. If your old beater makes you happy and gets the job done, rock that thing loud and proud in all its glory! As they say,
 
-
-
-# END
-- 130k on the odometer  
+> "if it aint broke, dont fix it."
