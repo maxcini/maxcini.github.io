@@ -4,7 +4,7 @@ title: Why I still drive a 2005 Ford Escape
 date: 2024-10-01
 description: I pay $300/mo to drive my car
 image: "/post/car-TCO/escape.jpeg"
-tags: ["Car"]
+tags: ["Cars"]
 categories: ["Personal Finance"]
 ---
 
