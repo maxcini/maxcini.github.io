@@ -104,3 +104,5 @@ With all this car talk, I leave you to think about this - a good principle to fo
 I think at the end of the day, people should just drive whatever makes them happy. Dont get caught up in the, "you better be driving a ferrari by 25 or your a loser" bs online. If your old beater makes you happy and gets the job done, rock that thing loud and proud in all its glory! As they say,
 
 > "if it aint broke, dont fix it."
+
+**Edit #1:** This video titled, ["Having Wealth Is Driving A Beater Car"](https://www.youtube.com/watch?v=_2ok3hgyZSw&ab_channel=UneducatedEconomist) from the Uneducated Economist sums up my thoughts exactly.

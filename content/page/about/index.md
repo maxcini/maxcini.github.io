@@ -15,7 +15,7 @@ menu:
       icon: user
 ---
 
-If you're like me, you like to write everything down... to remeber things, record milestones, and share key learnings with others. This website serves as storage for my ideas and projects.
+If you're like me, you like to write everything down... to remember things, record milestones, and share key learnings with others. This website serves as storage for my ideas and projects.
 
 My goal for this site is to improve my communication skills through the practice of writing. Topics of interests include cars, health and fitness, personal finance, and more.
 
