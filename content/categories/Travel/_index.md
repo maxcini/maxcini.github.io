@@ -1,6 +1,6 @@
 ---
 title: "Travel"
-description: "Cool places I've been to."
+description: "Cool places I've been to"
 slug: "travel-category"
 image: "palmtreebeach.jpg"
 style:

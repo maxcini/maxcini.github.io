@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Cool stuff I built."
+description: "Cool stuff I built"
 slug: "project-category"
 image: "projects.jpg"
 style:

@@ -21,25 +21,25 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;If you&amp;rsquo;re like me, you like to write everything down&amp;hellip; to remember things, record milestones, and share key learnings with others. This website serves as storage for my ideas and projects.&lt;/p&gt;
-&lt;p&gt;My goal for this site is to improve my communication skills through the practice of writing. Topics of interests include cars, health and fitness, personal finance, and more.&lt;/p&gt;
+        <description>&lt;p&gt;If you&amp;rsquo;re like me, you like to write things down&amp;hellip; to remember important details, track milestones, or share what you&amp;rsquo;ve learned with others. This website serves as storage for my ideas and projects.&lt;/p&gt;
+&lt;p&gt;My goal for this site is to improve my communication skills through the practice of writing. Topics of interests include cars, technology, health and fitness, personal finance, and more.&lt;/p&gt;
 &lt;p&gt;I hope it brings you value&amp;hellip; or comedy. Enjoy :)&lt;/p&gt;
 &lt;h2 id=&#34;about-max-mancini&#34;&gt;About Max Mancini:
 &lt;/h2&gt;&lt;p&gt;I became a mechanical engineer because I like to build cool stuff. Also because I like math.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Started with the Legos, now we&amp;rsquo;re here.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I am passionate about mobility, clean energy technology, and entrepreneurship. In my free time, I most commonly like to lift weights and walk the dog. Currenlty, I am working towards a master&amp;rsquo;s degree in engineering.&lt;/p&gt;
+&lt;p&gt;I am passionate about mobility, clean energy technology, and entrepreneurship. In my free time, I most commonly like to lift weights and walk the dog. Currently, I am working towards a master&amp;rsquo;s degree in engineering.&lt;/p&gt;
 &lt;p&gt;My other interests include: running, mountain biking, fishing for lunkers, deep carving snowboarding, and traveling. I support both types of football, specifically Manchester United and the Michigan Wolverines.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Blogroll</title>
-        <link>http://localhost:1313/blogroll/</link>
+        <title>Info</title>
+        <link>http://localhost:1313/info/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/blogroll/</guid>
-        <description>&lt;p&gt;List of blogs I like to read periodically:&lt;/p&gt;
+        <guid>http://localhost:1313/info/</guid>
+        <description>&lt;p&gt;Information I like to consume periodically.&lt;/p&gt;
 </description>
         </item>
         <item>

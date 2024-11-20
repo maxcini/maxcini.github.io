@@ -5,7 +5,7 @@ date: 2024-08-14
 description: test
 image: "SDsunset.JPG"
 tags: ["test-tag"]
-# categories: ["test-category"]
+categories: ["test-category"]
 published: false
 ---
 

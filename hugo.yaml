@@ -208,13 +208,13 @@ menu:
 
     - identifier: soundcloud
       name: SoundCloud
-      url: https://soundcloud.com/user-412755200/likes
+      url: https://soundcloud.com/user-412755200
       params:
         icon: brand-soundcloud
 
     - identifier: youtube
       name: YouTube
-      url: https://www.youtube.com/@maxciniMAN
+      url: https://www.youtube.com/@amillimax/playlists
       params:
         icon: brand-youtube
 
