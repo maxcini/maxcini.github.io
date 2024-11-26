@@ -3,7 +3,7 @@ author: Max Mancini
 title: Molten Salt Thermal Energy Storage
 date: 2024-11-20
 description: Energy storage is a necessity for the future of renewable power generation.
-image: "post/Thermal-Energy/Gemasolar.jpg"
+image: "post/Thermal-Energy/GemasolarPlant.jpg"
 tags: ["Energy Storage"]
 categories: ["Engineering"]
 published: true
@@ -101,7 +101,6 @@ Some have described Concentrated Solar Power plants as ["extraterrestrial lookin
 Integrating molten salt storage with renewable power generation offers a zero emissions solution to meet people's power needs. 
 
 Many existing large scale demonstrations of molten salt TES use a sensible heat, two-tank design integrated with Concentrated Solar Power. However, one of the [top identified innovations to reduce TES cost][15] is to implement a latent heat, single-tank design utilizing Phase Change Materials (PCM). While a single tank would limit the continuous charge/discharge cycles, eliminating an entire tank significantly reduces cost. 
-
 
 The future is bright for energy storage and renewable power generation. Molten salt thermal energy storage will likely play a role in the transition to a clean grid and decarbonizing high temperature industrial heating. 
 
