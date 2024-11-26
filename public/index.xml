@@ -13,7 +13,144 @@
         <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/molten-salt-thermal-energy-storage/</guid>
-        <description>&lt;img src="http://localhost:1313/post/Thermal-Energy/Gemasolar.jpg" alt="Featured image of post Molten Salt Thermal Energy Storage" /&gt;&lt;p&gt;post coming soon&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/post/Thermal-Energy/Gemasolar.jpg" alt="Featured image of post Molten Salt Thermal Energy Storage" /&gt;&lt;p&gt;The above image is of &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Gemasolar_Thermosolar_Plant&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Gemasolar&lt;/a&gt;, a Concentrated Solar Power (CSP) plant with a molten salt energy storage system, located in Seville, Spain. The 75 acres of solar heliostats (mirrors) reflect sunlight to a 460 ft tower receiver. This heats the molten salt to 565 degC (1050 degF), which is then used in a steam generation system to power a turbine, generating electricity for the grid.&lt;/p&gt;
+&lt;p&gt;Gemasolar produces 20 MW of power capacity, supplying &lt;a class=&#34;link&#34; href=&#34;https://www.group.sener/en/project/gemasolar-solar-thermal-power-plant/?doing_wp_cron=1732462752.8351249694824218750000&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;80 GWh of energy per year&lt;/a&gt;. This is enough to power 27,500 homes and subsequently prevent 28,000 tCO2 emissions per year!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation
+&lt;/h2&gt;&lt;p&gt;The U.S. grid may need &lt;a class=&#34;link&#34; href=&#34;https://liftoff.energy.gov/long-duration-energy-storage/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;225-460 GW of Long Duration Energy Storage (LDES) capacity&lt;/a&gt; for a net-zero economy by 2050, representing $330B in cumulative capital requirements. Moreover, net-zero pathways that deploy LDES result in $10-20B in annualized savings in operating costs (reduced renewable curtailment and fuel spend) and avoided capital expenditures (reduced investment in dispatchable firm generation) compared to pathways that do not.&lt;/p&gt;
+&lt;p&gt;But why such large projections?&lt;/p&gt;
+&lt;p&gt;As we build more renewable energy to clean up the grid and support growing energy demands, large scale energy storage is required to maintain grid resilience. Without energy storage, ramping of base load generation and excess renewable energy generation become significant problems, as seen in the &lt;a class=&#34;link&#34; href=&#34;https://www.energy.gov/eere/articles/confronting-duck-curve-how-address-over-generation-solar-energy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;duck curve&lt;/a&gt;. Therefore, intra-day energy storage (10-36 hours) aims to achieve adequate load matching, as &lt;a class=&#34;link&#34; href=&#34;https://css.umich.edu/publications/factsheets/energy/us-grid-energy-storage-factsheet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;shown below&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Thermal-Energy/loadmatching.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;load_matching&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The business case for load matching using energy storage becomes, wait for it&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;buy low, sell high 🤑&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Additional uses of energy storage (36-160+ hours) can be used to meet multi-day needs, such as withstanding extended durations of low renewable power generation and power outages.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background
+&lt;/h2&gt;&lt;p&gt;In 2023, the rated power of utility-scale electrical energy storage was &lt;a class=&#34;link&#34; href=&#34;https://css.umich.edu/publications/factsheets/energy/us-grid-energy-storage-factsheet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;39 GW in the U.S. and 178 GW globally&lt;/a&gt;. In the U.S., solar thermal energy storage only made up for &lt;a class=&#34;link&#34; href=&#34;https://www.eia.gov/energyexplained/electricity/energy-storage-for-electricity-generation.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;405 MW of power capacity across 3 plants&lt;/a&gt;. Pumped storage hydropower is by far the most common energy storage technology, making up roughly 66% of the total &lt;a class=&#34;link&#34; href=&#34;https://www.iea.org/data-and-statistics/charts/global-installed-energy-storage-capacity-by-scenario-2023-and-2030&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;272 GW of globally installed energy storage capacity&lt;/a&gt; today. For electrical energy storage specifically, this number shoots up to &lt;a class=&#34;link&#34; href=&#34;https://css.umich.edu/publications/factsheets/energy/us-grid-energy-storage-factsheet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;90%&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Pumped hydro&amp;rsquo;s popularity is due to its ability to support large energy storage capacities while being very cost effective. However, recent developments in battery technology are reducing costs, giving pumped hydro a run for its money. Utility-scale battery power capacity is on the rise faster than the latest meme stock, with &lt;a class=&#34;link&#34; href=&#34;https://www.eia.gov/todayinenergy/detail.php?id=63025&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;5 GW added to the U.S. grid&lt;/a&gt; just in the first half of this year alone.&lt;/p&gt;
+&lt;!-- - rate of discharge/dispatch - i.e. current limitations in grid ramp rate?  --&gt;
+&lt;!-- - add another paragraph or a image to improve this section --&gt;
+&lt;h2 id=&#34;why-molten-salt&#34;&gt;Why Molten Salt?
+&lt;/h2&gt;&lt;p&gt;So where does molten salt Thermal Energy Storage (TES) fit into this picture? First, let&amp;rsquo;s look at the ideal characteristics of energy storage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;large energy capacity&lt;/li&gt;
+&lt;li&gt;high energy density (i.e. small footprint)&lt;/li&gt;
+&lt;li&gt;easily dispatchable (i.e. can deploy energy quickly)&lt;/li&gt;
+&lt;li&gt;high efficiency&lt;/li&gt;
+&lt;li&gt;low cost&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.eesi.org/files/FactSheet_Energy_Storage_0219.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The table below&lt;/a&gt; comparing different LDES technologies shows that TES checks a lot of boxes; good power and storage capacity with high energy density and round trip efficiency, all while maintaining performance across a long equipment life.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Thermal-Energy/LDEScomparison.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;LCOS&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Ultimately, investments come down to whether or not a business can turn a profit. Therefore, &lt;a class=&#34;link&#34; href=&#34;https://www.energy.gov/sites/default/files/2024-08/Achieving%20the%20Promise%20of%20Low-Cost%20Long%20Duration%20Energy%20Storage_FINAL_08052024.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;the figure below&lt;/a&gt; compares different LDES technologies on a Levelized Cost Of Storage (LCOS) basis, which is a measure of the true cost of ownership. The &lt;a class=&#34;link&#34; href=&#34;https://www.energy.gov/sites/default/files/2022-09/2022%20Grid%20Energy%20Storage%20Technology%20Cost%20and%20Performance%20Assessment.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LCOS is defined as&lt;/a&gt; the average price that a unit of energy output would need to be sold at to cover all project costs inclusive of taxes, financing, operations,  maintenance, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Thermal-Energy/LCOScomparison.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;LCOS&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;While TES is not projected to reach the DOE&amp;rsquo;s LCOS target of $0.05/kWh by 2030 based on innovations in the pipeline, TES still remains cost competitive across the different forms of LDES today with a current LCOS at about $0.14/kWh.&lt;/p&gt;
+&lt;p&gt;The business case for TES lies where other more cost efficient forms of energy storage are not feasible. For example, geographical limitations can prevent pumped hydro storage (lack of elevation change with sufficient reservoirs) or compressed air storage (lack of underground caverns) from being pursued.&lt;/p&gt;
+&lt;p&gt;While the cost for batteries is expected to continue to come down, TES for high power capacity storage (1000 MW) and long durations (8+ hours) is still expected to have a &lt;a class=&#34;link&#34; href=&#34;https://www.energy.gov/sites/default/files/2022-09/2022%20Grid%20Energy%20Storage%20Technology%20Cost%20and%20Performance%20Assessment.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;lower total installed cost by 2030&lt;/a&gt; at about &lt;a class=&#34;link&#34; href=&#34;https://www.pnnl.gov/projects/esgc-cost-performance/thermal&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;$222/kWh vs the $258/kWh&lt;/a&gt; for Li-ion LFP batteries.&lt;/p&gt;
+&lt;p&gt;In the end, the consensus is that there is no one &amp;ldquo;holy grail&amp;rdquo; form of energy storage. We need to develop multiple forms of LDES simultaneously to fill different market needs while maintaining a diverse storage mix.&lt;/p&gt;
+&lt;!-- - As for batteries - why is TES better?  --&gt;
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it Works
+&lt;/h2&gt;&lt;p&gt;Now that you&amp;rsquo;re hopefully convinced Thermal Energy Storage (TES) can fill a market need, let&amp;rsquo;s take a look at how the system actually works. The &lt;a class=&#34;link&#34; href=&#34;https://elib.dlr.de/141650/1/2021%20-%20Bauer%20-%20Molten%20Salt%20Overview%20%28open%20access%29.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;image below&lt;/a&gt; shows the system broken up into 3 main units: the charging unit, the storage unit, and the discharge unit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Thermal-Energy/MoltenSalt.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;MoltenSalt&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Fluid molten salt flows from the cold storage tank through a heat exchanger, where renewable power input heats the salt from 170 degC (338 degF) to 560 degC (1040 degF). The molten salt then flows to a hot storage tank, where it can be stored until needed. Finally, the hot molten salt is pumped to a steam generator, heating water into steam, which then spins a turbine to generate electricity. Both the salt loop and the water loop then repeat the cycle for on demand power generation.&lt;/p&gt;
+&lt;p&gt;The stainless steel tanks are heavily insulated in glass foam/ceramic fiber with a refractory brick base, resulting in up to a &lt;a class=&#34;link&#34; href=&#34;https://www.mdpi.com/1996-1073/17/1/22#B9-energies-17-00022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;99% storage efficiency&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Thermal-Energy/TankDesign.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Tank&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;A problem molten salt tanks commonly experience is &lt;a class=&#34;link&#34; href=&#34;https://www.nrel.gov/docs/fy24osti/89036.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;failure in the tank floor&lt;/a&gt; from 1. high initial residual stress from welding fabrication and 2. high stresses from transient operation and elevated temperature gradients. Improvements in tank design, construction, and operation are being investigated to mitigate premature failure.&lt;/p&gt;
+&lt;p&gt;Furthermore, the &lt;a class=&#34;link&#34; href=&#34;https://elib.dlr.de/141650/1/2021%20-%20Bauer%20-%20Molten%20Salt%20Overview%20%28open%20access%29.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;solar salt&lt;/a&gt; is made up of 60% sodium nitrate (NaNO3) and 40% potassium nitrate (KNO3) by weight, optimized for melting temperature, salt costs, and heat capacity. The operating temperature range of solar salt is limited to the upper bound by thermal stability (corrosiveness) and lower bound by freezing point.&lt;/p&gt;
+&lt;p&gt;One advantage to TES is its flexibility in supporting multiple inputs and outputs. Renewable electricity can be converted to heat using a 100% efficient electric resistance heater. As seen in the intro, concentrated solar heating directly generates renewable heat. Although the majority of current molten salt systems support long duration storage for the grid, another useful output includes heat for high temperature industrial processes.&lt;/p&gt;
+&lt;p&gt;But what happens when intermittent renewable power generation goes offline for an extended period of time? After all, Mother Nature does not always make the sun shine or the wind blow. For this scenario, back up heating is required to maintain minimum temperature to prevent the salt from solidifying, &lt;a class=&#34;link&#34; href=&#34;https://www.man-es.com/campaigns/download-Q4-2024/Download/molten-salt-energy-storage/46beb3bd-6b13-4ab1-ab1e-2e46ebc52492/MOSAS-Whitepaper/43DDE90B9395632ECFFA2D2D2A822453DB20F096/?cid=433c6f91-e7d9-4759-b58a-6a9202c69e77&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;as depicted below&lt;/a&gt; via renewable fuels.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Thermal-Energy/MOSAS.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;MOSAS&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;!-- - Case study? --&gt;
+&lt;h2 id=&#34;local-impacts&#34;&gt;Local Impacts
+&lt;/h2&gt;&lt;p&gt;The impact on local communities and the surrounding environment to thermal energy storage and associated power generation methods are not to be overlooked.&lt;/p&gt;
+&lt;p&gt;Some have described Concentrated Solar Power plants as &lt;a class=&#34;link&#34; href=&#34;https://insideclimatenews.org/news/16012018/csp-concentrated-solar-molten-salt-storage-24-hour-renewable-energy-crescent-dunes-nevada/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&amp;ldquo;extraterrestrial looking&amp;rdquo;&lt;/a&gt;. I suppose this is another reason why we are building them in the middle of deserts. Also, in the event molten salt were to leak, there is a relatively low impact to the environment due to the salts being &lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/topics/earth-and-planetary-sciences/molten-salts#:~:text=Molten%20salt%20is%20a%20medium,applying%20heating%20by%20external%20sources.&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;nonflammable and nontoxic&lt;/a&gt; by nature.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h2&gt;&lt;p&gt;Integrating molten salt storage with renewable power generation offers a zero emissions solution to meet people&amp;rsquo;s power needs.&lt;/p&gt;
+&lt;p&gt;Many existing large scale demonstrations of molten salt TES use a sensible heat, two-tank design integrated with Concentrated Solar Power. However, one of the &lt;a class=&#34;link&#34; href=&#34;https://www.energy.gov/sites/default/files/2023-07/Technology%20Strategy%20Assessment%20-%20Thermal%20Energy%20Storage_0.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;top identified innovations to reduce TES cost&lt;/a&gt; is to implement a latent heat, single-tank design utilizing Phase Change Materials (PCM). While a single tank would limit the continuous charge/discharge cycles, eliminating an entire tank significantly reduces cost.&lt;/p&gt;
+&lt;p&gt;The future is bright for energy storage and renewable power generation. Molten salt thermal energy storage will likely play a role in the transition to a clean grid and decarbonizing high temperature industrial heating.&lt;/p&gt;
+&lt;p&gt;In the words of the wise,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I’d put my money on the sun and solar energy. What a source of power! I hope we don’t have to wait until oil and coal run out before we tackle that. I wish I had more years left.”
+&amp;ndash; &lt;cite&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.thomasedison.org/edison-quotes#:~:text=%E2%80%9CI%27d%20put%20my%20money,I%20had%20more%20years%20left.%E2%80%9D&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Thomas Edison&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
@@ -25,7 +162,7 @@
         <description>&lt;img src="http://localhost:1313/post/car-TCO/escape.jpeg" alt="Featured image of post Keep Driving Your Old Car and Save Thousands" /&gt;&lt;p&gt;The motivation for this post is directed towards young people like myself who have just joined the workforce and are starting to make some serious bread. Cars are cool, but, hear me out, you might want to rethink buying a really nice car so soon.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;I&amp;rsquo;ve been driving a 2005 Ford Escape since highschool because it only costs me $170/mo&amp;hellip; for everything.&lt;/p&gt;
-&lt;p&gt;I get questioned a lot why I still drive my car; my family think it&amp;rsquo;s unsafe, my friends think it&amp;rsquo;s funny, and my coworkers think it&amp;rsquo;s lame (I work for an automotive company that&amp;rsquo;s not Ford). The answer is because its cheap!&lt;/p&gt;
+&lt;p&gt;I get questioned a lot why I still drive my car; my family think it&amp;rsquo;s unsafe, my friends think it&amp;rsquo;s funny, and my coworkers think it&amp;rsquo;s lame (I work for an automotive company that&amp;rsquo;s not Ford). The answer is because its dirt cheap!&lt;/p&gt;
 &lt;p&gt;Honestly, if it were up to me, I&amp;rsquo;d ride my bike everywhere (like I did in college). But unfortunately, Michigan being home to the auto industry means infrastructure for biking and public transportation in general just sucks :( Therefore, a car is essential to get around here.&lt;/p&gt;
 &lt;p&gt;Now of course, driving around in an old, paid off vehicle with moderately good fuel efficiency will always be the most cost effective mode of transportation by car. Especially considering the opportunity cost of purchasing a new vehicle and the associated rapid depreciation.&lt;/p&gt;
 &lt;p&gt;However, I still wanted to see exactly just how much I&amp;rsquo;m paying (and subsequently saving) by continuing to drive my old car. Let&amp;rsquo;s look at a basic life cycle cost analysis below.&lt;/p&gt;
@@ -68,7 +205,7 @@
 &lt;tr&gt;
 &lt;td&gt;Repair&lt;/td&gt;
 &lt;td&gt;$100&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;estimated. nothing major so far (knock on wood)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -92,7 +229,7 @@
 &lt;/table&gt;
 &lt;p&gt;Note, the monthly operational cost (OpEx) will fluctuate based on gas prices and driving habits. Moreover, the longer the car lasts itself (CapEx), the more the total cost will continue to decrease over time.&lt;/p&gt;
 &lt;p&gt;This last point, along with the analysis, actually provides a case for buying new. If you plan to keep the car for a long time and not sell anytime soon, you can essentially ignore the big initial depreciation hit when driving the car off the lot. That being said, usually, buying a few years used will provide the best value.&lt;/p&gt;
-&lt;p&gt;I really like the last metric, cost per measured unit (cost per mile), as a means to use for a true, apples-to-apples comparison of cost when comparing vehicles. This can also be referred to as the Levelized Cost Of Driving (LCOD). This can especially be useful when comparing vehicles with different fuel sources and efficiencies, such as Electric Vehicles (EVs). Although, I&amp;rsquo;ll save that discussion for another post&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I really like the cost per mile metric as a means for a true, apples-to-apples comparison of cost when comparing vehicles. This can especially be useful when comparing vehicles with different fuel sources and efficiencies, such as Electric Vehicles (EVs). Although, I&amp;rsquo;ll save that discussion for another post&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;the-good-the-bad-and-the-ugly&#34;&gt;The Good, The Bad, and The Ugly
 &lt;/h2&gt;&lt;p&gt;The Beast has had its fair share of problems:&lt;/p&gt;
 &lt;ul&gt;
@@ -121,7 +258,7 @@
 &lt;/h2&gt;&lt;p&gt;In my opinion, it&amp;rsquo;s time to upgrade your car when it no longer meets your requirements. Consumer preferences are okay at vehicle selection, but I think we will always crave nicer stuff. As such, it&amp;rsquo;s important to decipher between needs and wants, and to avoid desired characteristics leading towards lifestyle creep.&lt;/p&gt;
 &lt;p&gt;All that being said, I really wish I could &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=SsZ-0AzryUg&amp;amp;ab_channel=Loki%26Geek&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;pull up to a function Paul Walker style&lt;/a&gt; every once in a while. I am totally in favor of car enthusiasts driving cool cars because that is their passion. I think eventually I will join the club myself. But, delaying the gratification a few years to set yourself up for financial success instead of immediately obtaining a wayyy too big car payment is definitely a worthy tradeoff.&lt;/p&gt;
-&lt;p&gt;I also think it&amp;rsquo;s really important to ask yourself why you even want a really nice car in the first place. Is it because some bald guy on the internet says you&amp;rsquo;re a loser if you&amp;rsquo;re not driving a Ferrari? Or because it&amp;rsquo;s actually a passion of yours?&lt;/p&gt;
+&lt;p&gt;I also think it&amp;rsquo;s really important to ask yourself why you even want a really nice car in the first place. Is it because some bald guy on the internet says you&amp;rsquo;re a loser if you&amp;rsquo;re not driving a Ferrari? Or because you just like cool cars?&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;We buy things we don&amp;rsquo;t need, with money we don&amp;rsquo;t have, to impress people we don&amp;rsquo;t like.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -140,8 +277,7 @@
     &gt;block out the haters!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edit #1:&lt;/strong&gt; This video titled, &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=_2ok3hgyZSw&amp;amp;ab_channel=UneducatedEconomist&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&amp;ldquo;Having Wealth Is Driving A Beater Car&amp;rdquo;&lt;/a&gt; from the Uneducated Economist sums up my thoughts exactly.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edit #2:&lt;/strong&gt; OG car youtuber Scotty Kilmer &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=Yig2etl02k0&amp;amp;ab_channel=ScottyKilmer&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;has a good take too&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit #2:&lt;/strong&gt; While EVs do have the lowest vehicle life cycle emissions, I am still being more sustaianable by driving an old ICE car to end of life than buying a new ICE car.&lt;/p&gt;
 </description>
         </item>
         <item>

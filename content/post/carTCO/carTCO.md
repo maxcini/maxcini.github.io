@@ -14,7 +14,7 @@ The motivation for this post is directed towards young people like myself who ha
 
 I've been driving a 2005 Ford Escape since highschool because it only costs me $170/mo... for everything.
 
-I get questioned a lot why I still drive my car; my family think it's unsafe, my friends think it's funny, and my coworkers think it's lame (I work for an automotive company that's not Ford). The answer is because its cheap!
+I get questioned a lot why I still drive my car; my family think it's unsafe, my friends think it's funny, and my coworkers think it's lame (I work for an automotive company that's not Ford). The answer is because its dirt cheap!
 
 Honestly, if it were up to me, I'd ride my bike everywhere (like I did in college). But unfortunately, Michigan being home to the auto industry means infrastructure for biking and public transportation in general just sucks :( Therefore, a car is essential to get around here.
 
@@ -33,7 +33,7 @@ The Escape is a family hand-me-down, so technically, I didn't pay anything for i
 | Insurance    | $700         | PLPD, classified as station wagon (don't ask how) |
 | Registration | $100         |
 | Maintenance  | $100         | 2x oil changes/yr at ~$50/ea                     |
-| Repair       | $100         |
+| Repair       | $100         | estimated. nothing major so far (knock on wood)
 
 Cost Summary:
 
@@ -59,7 +59,7 @@ Note, the monthly operational cost (OpEx) will fluctuate based on gas prices and
 
 This last point, along with the analysis, actually provides a case for buying new. If you plan to keep the car for a long time and not sell anytime soon, you can essentially ignore the big initial depreciation hit when driving the car off the lot. That being said, usually, buying a few years used will provide the best value. 
 
-I really like the last metric, cost per measured unit (cost per mile), as a means to use for a true, apples-to-apples comparison of cost when comparing vehicles. This can also be referred to as the Levelized Cost Of Driving (LCOD). This can especially be useful when comparing vehicles with different fuel sources and efficiencies, such as Electric Vehicles (EVs). Although, I'll save that discussion for another post...
+I really like the cost per mile metric as a means for a true, apples-to-apples comparison of cost when comparing vehicles. This can especially be useful when comparing vehicles with different fuel sources and efficiencies, such as Electric Vehicles (EVs). Although, I'll save that discussion for another post...
 
 ## The Good, The Bad, and The Ugly
 
@@ -83,7 +83,7 @@ In my opinion, it's time to upgrade your car when it no longer meets your requir
 
 All that being said, I really wish I could [pull up to a function Paul Walker style](https://www.youtube.com/watch?v=SsZ-0AzryUg&ab_channel=Loki%26Geek) every once in a while. I am totally in favor of car enthusiasts driving cool cars because that is their passion. I think eventually I will join the club myself. But, delaying the gratification a few years to set yourself up for financial success instead of immediately obtaining a wayyy too big car payment is definitely a worthy tradeoff.  
 
-I also think it's really important to ask yourself why you even want a really nice car in the first place. Is it because some bald guy on the internet says you're a loser if you're not driving a Ferrari? Or because it's actually a passion of yours? 
+I also think it's really important to ask yourself why you even want a really nice car in the first place. Is it because some bald guy on the internet says you're a loser if you're not driving a Ferrari? Or because you just like cool cars?
 
 > "We buy things we don't need, with money we don't have, to impress people we don't like."
 
@@ -103,4 +103,4 @@ At the end of the day, people should just drive whatever makes them happy and me
 
 **Edit #1:** This video titled, ["Having Wealth Is Driving A Beater Car"](https://www.youtube.com/watch?v=_2ok3hgyZSw&ab_channel=UneducatedEconomist) from the Uneducated Economist sums up my thoughts exactly.
 
-**Edit #2:** OG car youtuber Scotty Kilmer [has a good take too](https://www.youtube.com/watch?v=Yig2etl02k0&ab_channel=ScottyKilmer)
+**Edit #2:** While EVs do have the lowest vehicle life cycle emissions, I am still being more sustaianable by driving an old ICE car to end of life than buying a new ICE car.

@@ -24,6 +24,14 @@
         <description>&lt;img src="http://localhost:1313/categories/personal-finance/monopoly_money.jpg" alt="Featured image of post Personal Finance" /&gt;</description>
         </item>
         <item>
+        <title>Health &amp; Fitness</title>
+        <link>http://localhost:1313/categories/health--fitness/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/health--fitness/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/health--fitness/dumbbells.jpg" alt="Featured image of post Health &amp; Fitness" /&gt;</description>
+        </item>
+        <item>
         <title>Projects</title>
         <link>http://localhost:1313/categories/projects/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

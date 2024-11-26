@@ -40,6 +40,8 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/health--fitness/</loc>
+  </url><url>
     <loc>http://localhost:1313/info/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/projects/</loc>
