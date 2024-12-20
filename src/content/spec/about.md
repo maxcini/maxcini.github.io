@@ -1,9 +1,13 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Wannabe engineer at the coolest car company in the world. 
 
-::github{repo="saicaca/fuwari"}
+>"Started with the Legos, now we're here." 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+For fun, [I lift things up and put them down][23].
+
+[23]: https://www.youtube.com/watch?v=q7gzmoqmL7g&ab_channel=JasonHadley1
+
+> ### Topics
+>- Tech - energy related, cars, programming, data analytics/viz
+>- Health - excercise, nutrition, habits
+>- Money - personal finance, investing, frugality 
