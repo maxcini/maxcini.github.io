@@ -8,7 +8,7 @@ category: Health
 draft: true
 ---
 
-![fit_and_fat](fit_and_fat.png)
+<!-- ![fit_and_fat](fit_and_fat.png)
 
 / 
 
@@ -32,4 +32,4 @@ testing out the GIFs: - use a GIF combiner editor on the web to stack them verti
      </div>
 </div> -->
 
-![GIF2](gif1.gif)
+![GIF2](gif1.gif) -->
