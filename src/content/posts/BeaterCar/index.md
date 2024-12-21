@@ -2,7 +2,7 @@
 title: Make "Beater" Cars Cool Again! 
 published: 2024-10-01
 description: Save your money people...  
-image: 'escape.jpeg'
+image: 'Escape.jpeg'
 tags: [Cars]
 category: Money
 draft: false
@@ -76,7 +76,7 @@ The Beast has had its fair share of problems:
 - **Broken rear shock mount** - degraded wheel well seal lead to excessive rust from road spray, which separated the shock mount from the body of the vehicle. **The Fix =** replacement shock mount bracket + custom steel splint to repair vehicle body and provide adequate mounting surface (see photo below. also, thanks Uncle Tom!).
 - **Electrical issues** - I think there is an electrical leak somewhere. **The Fix =** disconnect the battery manually for prolonged periods (>few days) of not driving the vehicle.
 
-![shock_mount_repair](shock_mount_repair.png)
+![shock_mount_repair](ShockMountRepair.png)
 
 Gosh I love hillbilly engineering. 
 
@@ -84,7 +84,7 @@ Gosh I love hillbilly engineering.
 
 While I will be driving the Beast into the ground, literally, I do recognize this isn't the end game for everyone. 
 
-![beatercarmeme](beatercarmeme.jpg)
+![beatercarmeme](BeaterCarMeme.jpg)
 
 Some very valid reasons to purchase a newer vehicle include: 
 - <ins>Advanced safety features</ins>, especially if you drive your family around. 
