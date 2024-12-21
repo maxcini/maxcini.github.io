@@ -22,7 +22,7 @@ But why such large projections?
 
 As we build more renewable energy to clean up the grid and support growing energy demands, large scale energy storage is required to maintain grid resilience. Without energy storage, ramping of base load generation and excess renewable energy generation become significant problems, as seen in the [duck curve][4]. Therefore, intra-day energy storage (10-36 hours) aims to achieve adequate load matching, as [shown below][5]: 
 
-![Lmatch](LoadMatching.PNG)
+![Lmatch](LoadMatch.PNG)
 
 The business case for load matching using energy storage becomes, wait for it... 
 >buy low, sell high 🤑
