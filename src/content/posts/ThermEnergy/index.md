@@ -16,13 +16,13 @@ Gemasolar produces 20 MW of power capacity, supplying [80 GWh of energy per year
 
 ## Motivation
 
-The U.S. grid may need [225-460 GW of Long Duration Energy Storage (LDES) capacity][3] for a net-zero economy by 2050, representing \$330B in cumulative capital requirements. Moreover, net-zero pathways that deploy LDES result in $10-20B in annualized savings in operating costs (reduced renewable curtailment and fuel spend) and avoided capital expenditures (reduced investment in dispatchable firm generation) compared to pathways that do not.
+The U.S. grid may need [225-460 GW of Long Duration Energy Storage (LDES) capacity][3] for a net-zero economy by 2050, representing \$330B in cumulative capital requirements. Moreover, net-zero pathways that deploy LDES result in `$10-20B in annualized savings in operating costs (reduced renewable curtailment and fuel spend) and avoided capital expenditures (reduced investment in dispatchable firm generation) compared to pathways that do not.
 
 But why such large projections? 
 
 As we build more renewable energy to clean up the grid and support growing energy demands, large scale energy storage is required to maintain grid resilience. Without energy storage, ramping of base load generation and excess renewable energy generation become significant problems, as seen in the [duck curve][4]. Therefore, intra-day energy storage (10-36 hours) aims to achieve adequate load matching, as [shown below][5]: 
 
-![load_matching](LoadMatching.PNG)
+![Lmatch](LoadMatching.PNG)
 
 The business case for load matching using energy storage becomes, wait for it... 
 >buy low, sell high 🤑
