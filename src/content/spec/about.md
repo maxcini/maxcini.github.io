@@ -1,13 +1,12 @@
 # About
+
 Wannabe engineer at the coolest car company in the world. 
 
 >"Started with the Legos, now we're here." 
 
-For fun, [I lift things up and put them down][23].
+For fun, <a href="https://www.youtube.com/watch?v=q7gzmoqmL7g&ab_channel=JasonHadley1" target="_blank">I lift things up and put them down.</a>
 
-[23]: https://www.youtube.com/watch?v=q7gzmoqmL7g&ab_channel=JasonHadley1
-
-> ### Topics
->- Tech - energy related, cars, programming, data analytics/viz
->- Health - excercise, nutrition, habits
->- Money - personal finance, investing, frugality 
+ ### Topics
+- Tech - energy related, cars, data/programming/automation
+- Health - excercise, nutrition, habits
+- Money - personal finance, investing, frugality 

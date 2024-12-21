@@ -1,7 +1,7 @@
 ---
 title: Molten Salt Thermal Energy Storage
 published: 2024-11-20
-description: Energy storage is a necessity for the future of renewable power generation.
+description: Long duration energy storage; a life line for renewable power generation.
 image: "GemasolarPlant.jpg"
 tags: [Energy Storage]
 category: Tech

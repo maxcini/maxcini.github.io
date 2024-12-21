@@ -60,22 +60,22 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:linkedin',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://linkedin.com',
+      url: 'https://www.linkedin.com/in/maxcini/',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/',
+      url: 'https://github.com/maxcini/maxcini.github.io',
     },
     {
       name: 'SoundCloud',
       icon: 'fa6-brands:soundcloud',
-      url: 'https://soundcloud.com',
+      url: 'https://soundcloud.com/user-412755200/sets',
     },
     {
       name: 'YouTube',
       icon: 'fa6-brands:youtube',
-      url: 'https://youtube.com',
+      url: 'https://www.youtube.com/@amillimax/playlists',
     },
   ],
 }
