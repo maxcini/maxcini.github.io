@@ -125,4 +125,4 @@ Beater cars are an effective way to get around town while saving extra $$$ to in
 
 Thank you for reading! 
 
-**Edit #1:** This video titled, ["Having Wealth Is Driving A Beater Car"](https://www.youtube.com/watch?v=_2ok3hgyZSw&ab_channel=UneducatedEconomist) from the Uneducated Economist sums up my thoughts exactly. Valid point about having multiple beaters on rotation. 💯
+**Edit #1:** This video titled, <a href="https://www.youtube.com/watch?v=_2ok3hgyZSw&ab_channel=UneducatedEconomist" target="_blank">"Having Wealth Is Driving A Beater Car"</a> from the Uneducated Economist sums up my thoughts exactly. Valid point about having multiple beaters on rotation. 💯
