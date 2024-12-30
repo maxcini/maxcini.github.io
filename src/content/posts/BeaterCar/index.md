@@ -89,7 +89,7 @@ While I will be driving the Beast into the ground, literally, I do recognize thi
 Some very valid reasons to purchase a newer vehicle include: 
 - <ins>Advanced safety features</ins>, especially if you drive your family around. 
 - You <ins>take good care</ins> of your vehicles and <ins>own them for a long time</ins>. Ironically, the beater I drive today was bought new by my mom in '05, so perfectly acceptable as long as you don't get <a href="https://en.wikipedia.org/wiki/Shiny_object_syndrome" target="_blank">shiny object syndrome</a> and want an upgrade a few years later. 
-- Car guy and it's just <ins>your dying passion</ins>. Great, love it, just don't ball out and get a way too big car payment. As rules of thumb: 
+- Car guy/gal and it's just <ins>your dying passion</ins>. Great, love it, just don't ball out and get a way too big car payment. As rules of thumb: 
     - <a href="https://www.ramseysolutions.com/saving/how-much-car-can-i-afford#:~:text=Here's%20the%20deal%3A%20The%20car,should%20spend%20on%20a%20car." target="_blank">"The car you can afford is the car you can pay for in cash"</a>, with vehicle value < 50% annual income
     - <a href="https://www.lendingtree.com/auto/20-4-10-rule/" target="_blank">20/4/10 rule:</a> 20% down, pay off loan < 4 years, and monthly auto costs < 10% monthly income 
 

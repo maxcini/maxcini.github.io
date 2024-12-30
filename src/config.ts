@@ -68,11 +68,6 @@ export const profileConfig: ProfileConfig = {
       url: 'https://github.com/maxcini/maxcini.github.io',
     },
     {
-      name: 'SoundCloud',
-      icon: 'fa6-brands:soundcloud',
-      url: 'https://soundcloud.com/user-412755200/sets',
-    },
-    {
       name: 'YouTube',
       icon: 'fa6-brands:youtube',
       url: 'https://www.youtube.com/@amillimax/playlists',
