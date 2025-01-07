@@ -16,11 +16,8 @@ Ambitious? ✅ Challenging? ✅ Possible? Let's find out.
 Previously on "Get Jacked or Die Trying", I achieved my goal of `1-2-3-4 lifts` (1 plate overhead press, 2 plate bench press, 3 plate squat, and a 4 plate deadlift) late last year. Not too shabby for a mediocre lifter making a comeback in early 2024. 
 
 <!-- ![GIF1](gif2.gif) -->
-<img style="display: block; margin: auto;" src="maxcini.com/gif2.gif"/>
--
-<img style="display: block; margin: auto;" src="../src/content/posts/2025Bulk/gif2.gif"/>
--
-<p align="center">
+<p align="center" markdown="1">
+     <!-- ![GIF1](gif2.gif) -->
      <img src="/src/content/posts/2025Bulk/gif2.gif">
 </p>
 
