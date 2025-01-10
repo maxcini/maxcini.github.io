@@ -15,21 +15,15 @@ Ambitious? ✅ Challenging? ✅ Possible? Let's find out.
 
 Previously on "Get Jacked or Die Trying", I achieved my goal of `1-2-3-4 lifts` (1 plate overhead press, 2 plate bench press, 3 plate squat, and a 4 plate deadlift) late last year. Not too shabby for a mediocre lifter making a comeback in early 2024. 
 
-<!-- ![GIF1](gif2.gif) -->
-<p align="center" markdown="1">
-     <!-- ![GIF1](gif2.gif) -->
-     <img src="/src/content/posts/2025Bulk/gif2.gif">
-</p>
+![GIF1](gif2.gif)
 
 ![GIF2](gif1.gif)
 
-I say <span style="color:purple">'mediocre'</span> because up to setting out to achieve this strength goal, I never really set a goal for the gym. My workouts were inconsistent, lacked effort, and my diet was _shit!_
+I say <span style="color:purple">'mediocre'</span> because prior to setting out to achieve this strength goal, I never really set a goal for the gym. My workouts were inconsistent, lacked effort, and my diet was _shit!_
 
 I've been **fat** to **fit** to **fat again** more times than I can count - <ins>left me</ins> is a cardio queen road biking 100+ mile weeks in college 🚴, and <ins>right me</ins> is the aftermath of multiple late night binge eating sprees 😡.
-<!-- ![fnf](fit_and_fat.PNG) -->
-<p align="center">
-     <img src="/src/content/posts/2025Bulk/fit_and_fat.PNG">
-</p>
+
+![fnf](fit_and_fat.PNG)
 
 All of this to say, what if I went all in this year? What amount of progress could I make if I tracked every: 
 - Morning weigh-in?
@@ -62,7 +56,7 @@ I generally eat the same foods every day: eggs, potatoes, chicken, rice, whey pr
 I follow the old school bodybuilding rule of **1 gram of protein per pound of body weight**. I also try to stick to whole foods, avoiding anything highly processed or high in sugar. 
 
 :::tip
-"Loose tracking" calories/macros, at least on a bulk, is usually more sustainable. For example, I eat my mom's cooking every night for dinner, and instead of trying to micro manage every ingredient, I'll just weigh my portion size with a food scale and estimate the calories/macros by selecting the closest food item in the app. 
+"Loose tracking" calories/macros, at least on a bulk, is usually more **<span style="color:green">sustainable</span>**. For example, I eat my mom's cooking every night for dinner, and instead of trying to micro manage every ingredient, I'll just weigh my portion size with a food scale and estimate the calories/macros by selecting the closest food item in the app. 
 :::
 
 I validate I'm eating the correct amount of food by tracking my body weight. For consistency, I weigh myself every morning as soon as I wake up and right after I take a leak - that one pound makes a big difference, ok? 😂
@@ -95,33 +89,33 @@ Here's a sample program from an upper/lower + arm/extra day split I've been runn
 - Barbell curl 2x8-12
 
 #### Lower 1 - Tues
-- Hack squat / Smith squat 2x6-10 
 - Seated leg curl 2x8-12 
+- Hack squat / Smith squat 2x6-10 
 - Bulgarian split squat 2x8-10
 - Hip thrust 2x15 
-- Calf raises 2x15
+- Calf raises 3x15
 
 #### Upper 2 - Thurs 
-- Incline bench press / Bench press 2x6-10 
+- Incline bench press 2x6-10 
 - Close-grip lat pulldown 2x8-12
 - Pec deck / Cable fly 2x10-12 
-- Pendlay row 2x8-12 
+- Barbell row 2x8-12 
 - DB French press 2x8-10 
 
 #### Lower 2 - Fri 
+- Lying leg curl 2x8-12 
 - Leg press 2x8-10
 - Romanian deadlift 2x8-10  
-- Lying leg curl 2x8-12 
 - Leg extension 2x10-15 
-- Calf raises 2x15 
+- Calf raises 3x15 
 
 #### Arms - Sat 
 - Preacher curl 2x8-12
-- French press 2x8-12
+- DB French press 2x8-12
 - Incline DB curl / Single arm cable curl 2x8-12
 - DB skull crushers 2x8-12
-- DB / Cable lateral raises 2x10-15 
-- Shrugs / Rear delt fly / Reverse cable fly 2x10-15
+- Cable lateral raises 2x10-15 
+- Shrugs / Reverse cable fly 2x10-15
 
 Rest times are typically 2-3 mins, or more if needed. Additionally, some sets are taken past failure via partial reps. 
 
@@ -131,7 +125,16 @@ Although programming/exercise selection are very important, don't hyperfixate on
 If you're not having fun, then why are you even doing it? 
 :::
 
-Don't worry, I'm not a complete <a href="https://www.youtube.com/shorts/6O-rFD3BV3c" target="_blank">cardio skipper</a>. Most commonly, I'll take my dog for a walk or do some incline walking on the treadmill. Ideally, I am getting in some steps every day, especially since I work an office job. At a minimum, I'll walk/go for a short jog on my rest days, so 2x per week. 
+Don't worry, I'm not a complete <a href="https://www.youtube.com/shorts/6O-rFD3BV3c" target="_blank">cardio skipper</a>. Most commonly, I'll take my dog for a walk or do some incline walking on the treadmill for ~1 hour 3-4x per week. 
+
+### Rest
+Adequate rest is the final requirement in completing the trifecta of a quality plan to drive results in muscle growth. Simply put, without rest, your muscles won't grow. 
+
+As mentioned, two rest days per week seems to work best for my body to recover for the next lifting sessions. 
+
+> "Of all the drugs you could take for muscle building, **sleep** is the best drug." - <a href="https://www.youtube.com/watch?v=1xeSCokUsSI&ab_channel=RenaissancePeriodization" target="_blank">Dr. Mike</a>
+
+8 hours of sleep, every night. 😴
 
 ## Baseline 
 
