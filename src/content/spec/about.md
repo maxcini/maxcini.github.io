@@ -1,6 +1,6 @@
 # About
 
-Wannabe engineer at the coolest car company in the world. 
+Wannabe engineer helping to build the coolest of cars. 
 
 >"Started with the Legos, now we're here." 
 
