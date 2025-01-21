@@ -152,3 +152,5 @@ See you in 1 year 👋.
 
 > “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”  
 > -- <cite><a href="https://www.goodreads.com/quotes/607547-no-man-has-the-right-to-be-an-amateur-in" target="_blank">Socrates</a></cite>
+
+**Edit #1:** Some people I like to watch for info about training: <a href="https://www.youtube.com/@RenaissancePeriodization" target="_blank">Dr. Mike</a>, <a href="https://www.youtube.com/@JeffNippard" target="_blank">Jeff Nippard</a>, <a href="https://www.youtube.com/@BasementBodybuilding" target="_blank">Basement Bodybuilding</a>, <a href="https://www.youtube.com/@MaxEuceda7" target="_blank">Max Ecueda</a>, <a href="https://www.youtube.com/@sam_sulek" target="_blank">Sam Sulek</a>
