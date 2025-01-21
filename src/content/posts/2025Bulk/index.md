@@ -71,15 +71,15 @@ I log my weight in a free app called Weigh In: Weight Tracker. I like it because
 
 Or in other words, practice progressive overload, simply meaning every time you step foot in the gym, try to add a rep or a small increment of weight to the same excercise you did last time. 
 
-Some other guiding principles to follow: 
+Consistently <ins>high training intensity</ins> is by far the most important stimulus for building muscle.
 
-- Train to failure (or within 1 rep) - put in **<ins>MAX</ins>** effort
+- Train close/to failure - put in **MAX** effort
 - Focus on mind-muscle connection
 - Time under tension = slow and controlled _eccentric_ --> ~Lift~ Lower weights 
 
 As far as volume goes, I keep my workouts to 10ish hard sets because I like to keep training intensity high while being in the gym <1 hour.  
 
-Here's a sample program from an upper/lower + arm/extra day split I've been running for the past few months: 
+Here's a sample program from an upper/lower + arm/extra day split I've been enjoying recently: 
 
 #### Upper 1 - Mon 
 - DB shoulder press / BB overhead press 2x6-10 
@@ -87,20 +87,22 @@ Here's a sample program from an upper/lower + arm/extra day split I've been runn
 - Close-grip bench press 2x8-12
 - Cable row / High row 2x8-12
 - Barbell curl 2x8-12
+- Shrugs 2x12-15
 
 #### Lower 1 - Tues
 - Seated leg curl 2x8-12 
-- Hack squat / Smith squat 2x6-10 
+- Hack squat / Barbell squat 2x6-10 
 - Bulgarian split squat 2x8-10
-- Hip thrust 2x15 
+- Glute & Groin abductor 2x8-12 
 - Calf raises 3x15
 
 #### Upper 2 - Thurs 
 - Incline bench press 2x6-10 
 - Close-grip lat pulldown 2x8-12
 - Pec deck / Cable fly 2x10-12 
-- Barbell row 2x8-12 
+- Pendlay row 2x8-12 
 - DB French press 2x8-10 
+- Shrugs 2x12-15
 
 #### Lower 2 - Fri 
 - Lying leg curl 2x8-12 
@@ -109,13 +111,14 @@ Here's a sample program from an upper/lower + arm/extra day split I've been runn
 - Leg extension 2x10-15 
 - Calf raises 3x15 
 
-#### Arms - Sat 
+#### Arms/Extras - Sat 
 - Preacher curl 2x8-12
-- DB French press 2x8-12
-- Incline DB curl / Single arm cable curl 2x8-12
 - DB skull crushers 2x8-12
+- Incline DB curl / Single arm cable curl 2x8-12
+- Rope/bar pushdowns 2x8-12
 - Cable lateral raises 2x10-15 
-- Shrugs / Reverse cable fly 2x10-15
+- Reverse cable fly 2x10-15
+- Stretched forearm wrist curl 1x15-20
 
 Rest times are typically 2-3 mins, or more if needed. Additionally, some sets are taken past failure via partial reps. 
 
@@ -143,3 +146,9 @@ Well... there's nothing left to do other than to <a href="https://www.youtube.co
 ![LETSGOOOOOOOOOOOOO](1-5-25.jpg)
 
 See you in 1 year 👋.
+
+> “Its the not the destination, it's the journey.”   
+> -- <cite><a href="https://www.goodreads.com/quotes/859087-its-the-not-the-destination-it-s-the-journey" target="_blank">Ralph Waldo Emerson</a></cite>
+
+> “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.”  
+> -- <cite><a href="https://www.goodreads.com/quotes/607547-no-man-has-the-right-to-be-an-amateur-in" target="_blank">Socrates</a></cite>
