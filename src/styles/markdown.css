@@ -1,4 +1,11 @@
 .custom-md {
+
+    /* modified to make all text font size larger */
+    p, li, a, code, pre code, blockquote, strong, b {
+        @apply text-xl leading-8;
+    }
+    /*  */
+
     h1 {
         @apply text-3xl;
     }
@@ -20,7 +27,7 @@
     }
 
     a:not(.no-styling) {
-        @apply relative bg-none link font-medium text-[var(--primary)]
+        @apply relative bg-none link font-medium text-xl text-[var(--primary)]
         underline decoration-[var(--link-underline)] decoration-1 decoration-dashed underline-offset-4;
 
         &:hover, &:active {
@@ -29,7 +36,7 @@
     }
 
     code {
-        @apply bg-[var(--inline-code-bg)] text-[var(--inline-code-color)] px-1 py-0.5 rounded-md overflow-hidden;
+        @apply bg-[var(--inline-code-bg)] text-lg text-[var(--inline-code-color)] px-1 py-0.5 rounded-md overflow-hidden;
 
         font-family: 'JetBrains Mono Variable', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
         &:before {
@@ -58,7 +65,7 @@
         @apply rounded-xl px-5;
 
         code {
-            @apply bg-transparent text-inherit text-sm p-0;
+            @apply bg-transparent text-inherit text-xl p-0;
 
             ::selection {
                 @apply bg-[var(--codeblock-selection)];
@@ -73,7 +80,7 @@
     }
 
     blockquote {
-        @apply not-italic border-transparent relative;
+        @apply not-italic border-transparent relative text-xl;
         font-weight: inherit;
 
         &:before {
@@ -84,6 +91,5 @@
         p:before, p:after {
             @apply content-none;
         }
-
     }
 }

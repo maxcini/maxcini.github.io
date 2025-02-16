@@ -11,8 +11,8 @@ export const siteConfig: SiteConfig = {
   subtitle: 'blog',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
-    hue: 225,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
-    fixed: false,     // Hide the theme color picker for visitors
+    hue: 240,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
     enable: false,
@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
     // {
     //   name: 'GitHub',
     //   url: 'https://github.com/',     // Internal links should not include the base path, as it is automatically added
-    //   external: true,                               // Show an external link icon and will open in a new tab
+    //   external: true,                 // Show an external link icon and will open in a new tab
     // },
   ],
 }
@@ -53,13 +53,14 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/gvtest.PNG',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Max Mancini',
-  bio: "YOLO",
+  bio: 'a blog about less is more',
   links: [
     {
+      // Visit https://icones.js.org/ for icon codes
+      // You will need to install the corresponding icon set if it's not already included
+      // `pnpm add @iconify-json/<icon-set-name>`
       name: 'LinkedIn',
-      icon: 'fa6-brands:linkedin',       // Visit https://icones.js.org/ for icon codes
-                                        // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
+      icon: 'fa6-brands:linkedin',       
       url: 'https://www.linkedin.com/in/maxcini/',
     },
     {
@@ -70,7 +71,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'YouTube',
       icon: 'fa6-brands:youtube',
-      url: 'https://www.youtube.com/@amillimax/playlists',
+      url: 'https://www.youtube.com/@maxciniman/playlists',
     },
   ],
 }

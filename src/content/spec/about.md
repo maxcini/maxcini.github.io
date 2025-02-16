@@ -1,12 +1,17 @@
 # About
 
-Wannabe engineer helping to build the coolest of cars. 
+Hey! 👋
 
+I'm Max Mancini, a wannabe engineer passionate about sustainability and building cool stuff. 
 >"Started with the Legos, now we're here." 
 
-For fun, <a href="https://www.youtube.com/watch?v=q7gzmoqmL7g&ab_channel=JasonHadley1" target="_blank">I lift things up and put them down.</a>
+I created this blog to improve my communication skills through a writing style that prioritizes:
 
- ### Topics
-- Tech - energy related stuff, cars, automation
-- Health - excercise, nutrition, habits
-- Money - personal finance, investing, frugality 
+- Clear and direct information 📝
+- High quality visuals 📊
+- And most importantly--memes! 😂
+
+<!-- Topics of interest include: 
+<p style="text-align: center;">Engineering 🛠️ | Money 💵 | Health 💪 | Travel ✈️</p> -->
+
+Enjoy :)

@@ -1,5 +1,5 @@
 ---
-title: Make "Beater" Cars Cool Again! 
+title: Make "Beater Cars" Cool Again! 
 published: 2024-10-01
 description: Save your money people...  
 image: 'Escape.jpeg'
@@ -7,6 +7,8 @@ tags: [Cars]
 category: Money
 draft: false
 ---
+
+For fun, <a href="https://www.youtube.com/watch?v=q7gzmoqmL7g&ab_channel=JasonHadley1" target="_blank">I lift things up and put them down.</a>
 
 ## Why?
 
