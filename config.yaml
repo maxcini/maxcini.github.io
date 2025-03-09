@@ -1,4 +1,4 @@
-theme: hugo-tufte
+theme: "hugo-tufte"
 languageCode: en-US
 baseurl: "https://maxcini.github.io/"
 title: "Max Mancini"
