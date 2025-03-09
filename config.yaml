@@ -1,0 +1,84 @@
+theme: hugo-tufte
+languageCode: en-US
+baseurl: "http://example.com"
+title: "Max Mancini"
+canonifyurls: true
+paginate: 5 # Number of posts per page on the home page
+
+# Only modify the following if you know what you are doing
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    guessSyntax: true
+
+params:
+  subtitle: "less is more"
+  favicon: "./favicon.ico"
+  touchicon: "./touch-icon.png"
+  codeblocksdark: false # Dark code highlighting
+  marginNoteInd: "⊕" # this needs to be removed and updated to auto show with lines and small text ***ACTION REQUIRED***
+  copyright: Max Mancini
+  showPoweredBy: false # Show the "Powered by Hugo-Tufte and Hugo."
+  hidedate: false
+  showSummary: true
+
+  math: true
+  KaTeXVersion: 0.16.4
+  KaTeXCDN: "//cdn.jsdelivr.net/npm"
+  # #### Control style flavours of the website
+  # Use upright & sans-serif font for subtitles
+  sansSubtitle: false
+  # Make the page centred in screen
+  centerArticle: false
+
+  # resume: <insert_here> # insert full link here
+  github: /maxcini/maxcini.github.io
+  linkedin: /maxcini/
+  youtube: /@maxciniman/playlists # check the end of your youtube url https://www.youtube.com/<copy_this>
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
+# -----------------------------------------------------------------------
+# Navigation menu
+# -----------------------------------------------------------------------
+menu:
+  nav:
+    - name: Home
+      weight: -110
+      identifier: home
+      url: /
+    - name: Posts
+      weight: -100
+      identifier: posts
+      url: /posts/
+    # - name: A-Book
+    #   weight: -95
+    #   identifier: book
+    #   url: /a-book/
+    - name: Categories
+      weight: -90
+      identifier: categories
+      url: /categories/
+    - name: About
+      weight: -80
+      identifier: about
+      url: /about/
+    # - name: Source Code
+    #   weight: -70
+    #   identifier: github
+    #   url: "https://github.com/loikein/hugo-tufte"
+# -----------------------------------------------------------------------
+# FOOTER MENU
+# If you need to add custom links to you footer: put them here.
+# -----------------------------------------------------------------------
+  # footer:
+  #   - name: Custom footer link
+  #     weight: -90
+  #     identifier: custom_link
+  #     url: 'https://example.com'
