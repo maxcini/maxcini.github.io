@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hugo-tufte.min.css",
-	"sourceRoot": "C:/Users/Max/Desktop/test/blog",
+	"sourceRoot": "C:/Users/Max/Desktop/blog",
 	"sources": [
 		"themes/hugo-tufte/assets/scss/hugo-tufte.scss",
 		"themes/hugo-tufte/assets/scss/tufte.scss",
