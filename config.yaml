@@ -1,6 +1,6 @@
 theme: hugo-tufte
 languageCode: en-US
-baseurl: "http://maxcini.com"
+baseurl: "http://maxcini.github.io"
 title: "Max Mancini"
 canonifyurls: true
 paginate: 5 # Number of posts per page on the home page
