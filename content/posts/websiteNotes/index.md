@@ -1,10 +1,11 @@
 ---
 author: Max Mancini
-date: '2025-01-31'
-title: How to Make a Website for Free
+date: '2025-03-09'
+title: Make a Website for Free
 description: Notes about web design and deployment
 categories:
     - "build"
+meta: true
 draft: false
 ---
 
@@ -63,3 +64,4 @@ Some things I will possibly look into adding in the future include:
 - Search Engine Optimization (SEO)
 - Google Analytics
 
+*Final note: practice a little bit of patience when building your site. It will be fustrating at times - take a break for a bit and come back to it later. In the end, it'll be worth it. You can do it! Good luck!
