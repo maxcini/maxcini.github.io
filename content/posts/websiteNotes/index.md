@@ -1,7 +1,7 @@
 ---
 author: Max Mancini
 date: '2025-01-31'
-title: Make a Website for Free
+title: How to Make a Website for Free
 description: Notes about web design and deployment
 categories:
     - "build"
