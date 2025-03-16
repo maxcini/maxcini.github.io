@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/build/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/topics/build/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -17,25 +14,16 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/buildwealth/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/topics/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/money/</loc>
+    <loc>http://localhost:1313/posts/buildwealth/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tufte-css/</loc>
     <lastmod>2023-04-17T16:03:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/katex/</loc>
-    <lastmod>2023-04-16T16:03:45+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/latex/</loc>
-    <lastmod>2023-04-16T16:03:45+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/tufte-features/</loc>
-    <lastmod>2023-04-16T16:03:45+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tufte-css/</loc>
     <lastmod>2023-04-16T16:03:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/more-maths/</loc>
@@ -44,16 +32,7 @@
     <loc>http://localhost:1313/posts/blockquote/</loc>
     <lastmod>2015-01-19T23:57:58-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/fun/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/new/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>

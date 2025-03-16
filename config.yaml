@@ -17,10 +17,10 @@ markup:
 
 params:
   subtitle: "less is more"
-  favicon: "./favicon.ico"
+  favicon: "./favicon.ico" # how do I link to custom?
   touchicon: "./touch-icon.png"
   codeblocksdark: false # Dark code highlighting
-  marginNoteInd: "⊕" # this needs to be removed and updated to auto show with lines and small text ***ACTION REQUIRED***
+  marginNoteInd: "⊕" # this needs to be removed and updated to auto show with lines and small text/default to open ***ACTION REQUIRED***
   copyright: Max Mancini
   showPoweredBy: false # Show the "Powered by Hugo-Tufte and Hugo."
   hidedate: false
@@ -41,7 +41,7 @@ params:
   youtube: /@maxciniman/playlists # check the end of your youtube url https://www.youtube.com/<copy_this>
 
 taxonomies:
-  category: categories
+  category: topics # changed "categories" to "topics"
   series: series
   tag: tags
 
@@ -62,10 +62,10 @@ menu:
     #   weight: -95
     #   identifier: book
     #   url: /a-book/
-    - name: Categories
+    - name: Topics # changed "categories" to "topics"
       weight: -90
-      identifier: categories
-      url: /categories/
+      identifier: topics
+      url: /topics/
     - name: About
       weight: -80
       identifier: about

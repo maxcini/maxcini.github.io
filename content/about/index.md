@@ -4,11 +4,15 @@ hasMath: false
 _build:
   list: never
 ---
+Engineer passionate about energy, data, and building cool stuff. 
 {{< figure
   src="headshot.webp"
   type="margin"
 >}}
-Engineer passionate about energy, data, and building cool stuff. 
+{{< figure
+  src="faviconMaxSignature.jpg"
+  type="margin"
+>}}
 
 >"Started with the Legos, now we're here." 
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Max Mancini</title>
+    <link>http://localhost:1313/topics/</link>
+    <description>Recent content in Topics on Max Mancini</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build</title>
+      <link>http://localhost:1313/topics/build/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/build/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

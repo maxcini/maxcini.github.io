@@ -257,6 +257,14 @@ img {
     position: relative;
 }
 
+/* added to center logo on about page */
+.marginnote img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .sidenote-number {
     counter-increment: sidenote-counter;
 }
