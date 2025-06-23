@@ -29,10 +29,6 @@
       <li><a href="https://github.com{{.Site.Params.github}}" target="_blank">GitHub</a></li>
       {{ end }}
     
-      {{ if isset .Site.Params "youtube" }}
-      <li><a href="https://www.youtube.com{{.Site.Params.youtube}}" target="_blank">YouTube</a></li>
-      {{ end }}
-    
       {{/* END SOCIALS */}}
       {{ range .Site.Menus.footer }}
         <li><a href="{{.URL}}">{{.Pre }} {{ .Name }}</a></li>

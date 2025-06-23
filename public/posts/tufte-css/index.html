@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description"
-    content="Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.⚠This demo page is a technical replicate of the original Tufte CSS page on Edward Tufte&rsquo;s GitHub site. Information may not accurately reflect features of the hugo-tufte theme.Tufte CSS was created by Dave Liepmann and is now an Edward Tufte project. ">
+    content="Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.⚠This demo page is a technical replicate of the original [Tufte CSS](https://edwardtufte.github.io/tufte-css/) page on Edward Tufte&#39;s GitHub site. Information may not accurately reflect features of the hugo-tufte theme.Tufte CSS was created by Dave Liepmann and is now an Edward Tufte project. ">
 <link rel="canonical" href="http://localhost:1313/posts/tufte-css/" />
 
 
@@ -38,8 +38,6 @@
 
 <link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
 
-<script src="https://d3js.org/d3.v6.min.js"></script>
-
 
 <link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon/favicon.ico">
 
@@ -50,6 +48,31 @@
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
@@ -63,7 +86,7 @@
   <section><p>Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.<label for="marginnote-1" class="margin-toggle marginnote-ind">⚠</label>
 <input type="checkbox" id="marginnote-1" class="margin-toggle"/>
 <span class="marginnote">
-This demo page is a technical replicate of the original <a href="https://edwardtufte.github.io/tufte-css/">Tufte CSS</a> page on Edward Tufte&rsquo;s GitHub site. Information may not accurately reflect features of the hugo-tufte theme.
+This demo page is a technical replicate of the original [Tufte CSS](https://edwardtufte.github.io/tufte-css/) page on Edward Tufte's GitHub site. Information may not accurately reflect features of the hugo-tufte theme.
 </span>
 </p>
 <p>Tufte CSS was created by <a href="http://www.daveliepmann.com">Dave Liepmann</a> and is now an Edward Tufte project. The original idea was cribbed from <a href="https://tufte-latex.github.io/tufte-latex/">Tufte-<code>$\LaTeX{}$</code></a> and <a href="http://rmarkdown.rstudio.com/tufte_handout_format.html">R Markdown’s Tufte Handout format</a>. We give hearty thanks to all the people who have contributed to those projects.</p>
@@ -203,7 +226,7 @@ Figures
     <span class="marginnote">
 
 
-From Edward Tufte, <cite>Visual Display of Quantitative Information</cite>, page 92.
+From Edward Tufte, <cite>Visual Display of Quantitative Information</cite>, page 92. 
 
 
 
@@ -231,7 +254,7 @@ From Edward Tufte, <cite>Visual Display of Quantitative Information</cite>, page
     
 
 
-F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zooological Literature,” <em>Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice</em> (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s <em>Visual Explanations</em>.
+F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zooological Literature,” _Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice_ (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s _Visual Explanations_. 
 
 
 
@@ -255,7 +278,7 @@ But tight integration of graphics with text is central to Tufte’s work even wh
   <figcaption>
 
 
-
+ 
 
 
 
@@ -277,12 +300,22 @@ But tight integration of graphics with text is central to Tufte’s work even wh
 </span></span></code></pre></div>
 
 
+ 
 
-<div class="video-container">
-<iframe
-class="video video--16x9"
-src="https://www.youtube-nocookie.com/embed/YslQ2625TR4?cc_load_policy=1&cc=1" allowfullscreen title="iPhone Resolution by Edward Tufte" frameborder="0" sandbox="allow-same-origin allow-scripts" loading="lazy"></iframe>
+<div class="video-container" style="position: relative; width: 100%; padding-top: 20px; padding-bottom: 0px; margin-top: 20px; margin-bottom: 20px;">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%;"> 
+    <iframe
+      class="video video--16x9"
+      src="https://www.youtube-nocookie.com/embed/YslQ2625TR4?cc_load_policy=1&cc=1"
+      title="iPhone Resolution by Edward Tufte"
+      frameborder="0"
+      allowfullscreen
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      style="position: absolute; width: 100%; height: 100%;"></iframe>
+  </div>
 </div>
+
+
 
 <p>You can use this class on a <code>div</code> instead of a <code>figure</code>, with slightly different results but the same general effect. Experiment and choose depending on your application.</p>
 <h2 id="code">
@@ -329,7 +362,7 @@ It is not maintained as of 2023-04-17.
   <figcaption>
 
 
-
+ 
 
 
 
@@ -351,7 +384,7 @@ It is not maintained as of 2023-04-17.
   
 
 
-
+ 
 
 
 
@@ -386,7 +419,7 @@ Epilogue
     
     <div class="next-post" style="display:inline-block;float:right;">
       
-      <a class="link-reverse" href="http://localhost:1313/posts/buildwealth/?ref=footer">How to Build Wealth »</a>
+      <a class="link-reverse" href="http://localhost:1313/posts/buildwealth/?ref=footer">Build Wealth and Prosper »</a>
       
     </div>
     
@@ -395,6 +428,8 @@ Epilogue
 
       
       
+      <li><a href="http://localhost:1313/ManciniMax_PublicResume2025.pdf" target="_blank">Resume</a></li>
+      
 
       
       <li><a href="https://linkedin.com/in/maxcini/" target="_blank">LinkedIn</a></li>
@@ -402,10 +437,6 @@ Epilogue
     
       
       <li><a href="https://github.com/maxcini/maxcini.github.io" target="_blank">GitHub</a></li>
-      
-    
-      
-      <li><a href="https://www.youtube.com/@maxciniman/playlists" target="_blank">YouTube</a></li>
       
     
       

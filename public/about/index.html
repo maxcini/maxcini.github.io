@@ -4,9 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description"
-    content="Engineer passionate about energy, data, and building cool stuff. ⊕⊕&ldquo;Started with the Legos, now we&rsquo;re here.&rdquo;
+    content="Energy enthusiast, data junkie, aspiring business professional. ⊕⊕&ldquo;Started with the Legos, now we&rsquo;re here.&rdquo;
 I created this website to improve my communication skills through a writing style that prioritizes:
-Clear and direct information High-quality visuals Engaging storytelling Enjoy :) ">
+Clear and direct information High-quality visuals Engaging storytelling Just a bunch of notes about anything, really.
+Enjoy :) ">
 <link rel="canonical" href="http://localhost:1313/about/" />
 
 
@@ -40,8 +41,6 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
 
 <link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
 
-<script src="https://d3js.org/d3.v6.min.js"></script>
-
 
 <link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon/favicon.ico">
 
@@ -52,6 +51,31 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
@@ -62,18 +86,18 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
 
   
 
-  <section><p>Engineer passionate about energy, data, and building cool stuff.
+  <section><p>Energy enthusiast, data junkie, aspiring business professional.
 
 
     <label for="marginfig-1" class="margin-toggle marginnote-ind">⊕</label>
     <input type="checkbox" id="marginfig-1" class="margin-toggle"/>
     <span class="marginnote">
     
-    <img src="headshot.webp" alt="Image">
+    <img src="headshot.webp" alt="">
     
 
 
-
+ 
 
 
 
@@ -91,11 +115,11 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
     <input type="checkbox" id="marginfig-2" class="margin-toggle"/>
     <span class="marginnote">
     
-    <img src="faviconMaxSignature.jpg" alt="Image">
+    <img src="faviconMaxSignature.jpg" alt="" id="myAboutPageLogo">
     
 
 
-
+ 
 
 
 
@@ -116,6 +140,7 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
 <li>High-quality visuals</li>
 <li>Engaging storytelling</li>
 </ul>
+<p>Just a bunch of notes about anything, really.</p>
 <p>Enjoy :)</p>
 </section>
   <section><footer class="page-footer">
@@ -134,6 +159,8 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
 
       
       
+      <li><a href="http://localhost:1313/ManciniMax_PublicResume2025.pdf" target="_blank">Resume</a></li>
+      
 
       
       <li><a href="https://linkedin.com/in/maxcini/" target="_blank">LinkedIn</a></li>
@@ -141,10 +168,6 @@ Clear and direct information High-quality visuals Engaging storytelling Enjoy :)
     
       
       <li><a href="https://github.com/maxcini/maxcini.github.io" target="_blank">GitHub</a></li>
-      
-    
-      
-      <li><a href="https://www.youtube.com/@maxciniman/playlists" target="_blank">YouTube</a></li>
       
     
       

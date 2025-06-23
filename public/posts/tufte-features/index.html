@@ -38,8 +38,6 @@
 
 <link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
 
-<script src="https://d3js.org/d3.v6.min.js"></script>
-
 
 <link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon/favicon.ico">
 
@@ -50,6 +48,31 @@
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
@@ -219,12 +242,22 @@ YouTube-nocookie
 
 
 
+ 
 
-<div class="video-container">
-<iframe
-class="video video--16x9"
-src="https://www.youtube-nocookie.com/embed/YslQ2625TR4?cc_load_policy=1&cc=1" allowfullscreen title="iPhone Resolution by Edward Tufte" frameborder="0" sandbox="allow-same-origin allow-scripts" loading="lazy"></iframe>
+<div class="video-container" style="position: relative; width: 100%; padding-top: 20px; padding-bottom: 0px; margin-top: 20px; margin-bottom: 20px;">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%;"> 
+    <iframe
+      class="video video--16x9"
+      src="https://www.youtube-nocookie.com/embed/YslQ2625TR4?cc_load_policy=1&cc=1"
+      title="iPhone Resolution by Edward Tufte"
+      frameborder="0"
+      allowfullscreen
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      style="position: absolute; width: 100%; height: 100%;"></iframe>
+  </div>
 </div>
+
+
 
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">youtube</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;YslQ2625TR4&#34;</span> <span class="na">title</span><span class="o">=</span><span class="s">&#34;iPhone Resolution by Edward Tufte&#34;</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></div><h2 id="tufte-features">
@@ -318,7 +351,7 @@ Figure
     <span class="marginnote">
 
 <strong>The image title. </strong>
-This is the image caption.
+This is the image caption. 
 <a href="#">Image attribution</a>.
 
 
@@ -356,7 +389,7 @@ This is the image caption.
     </a>
 
 <strong>The image title. </strong>
-This is the image caption.
+This is the image caption. 
 <a href="https://edwardtufte.github.io/tufte-css">Image attribution</a>.
 
 
@@ -395,7 +428,7 @@ Very importantly, they want some text to go with them, either before or after, w
   <figcaption>
 
 <strong>Napoleonic wars. </strong>
-This the image caption.
+This the image caption. 
 <a href="#">Image attribution</a>.
 
 
@@ -584,6 +617,8 @@ LaTeX &amp; Table
 
       
       
+      <li><a href="http://localhost:1313/ManciniMax_PublicResume2025.pdf" target="_blank">Resume</a></li>
+      
 
       
       <li><a href="https://linkedin.com/in/maxcini/" target="_blank">LinkedIn</a></li>
@@ -591,10 +626,6 @@ LaTeX &amp; Table
     
       
       <li><a href="https://github.com/maxcini/maxcini.github.io" target="_blank">GitHub</a></li>
-      
-    
-      
-      <li><a href="https://www.youtube.com/@maxciniman/playlists" target="_blank">YouTube</a></li>
       
     
       

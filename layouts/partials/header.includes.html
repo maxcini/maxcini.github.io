@@ -23,8 +23,6 @@
 
 <link rel="stylesheet" href="{{ "/css/hugo-tufte-override.css" | relURL }}">
 
-<script src="https://d3js.org/d3.v6.min.js"></script>
-
 <!-- Standard Favicon -->
 <link rel="icon" type="image/x-icon" href="{{ "/favicon/favicon.ico" | relURL }}">
 
@@ -34,3 +32,29 @@
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/favicon/apple-touch-icon.png" | relURL }}">
 <link rel="icon" type="image/png" sizes="192x192" href="{{ "/favicon/favicon-192x192.png" | relURL }}">
 
+<!-- Automatically makes side notes visible on mobile format -->
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  // Automatically check all checkboxes
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  // Recursively check inside frames
+            }
+          }
+        }
+        checkFrames(window);  // Automatically check on page load
+      }
+    </script>
+  
+  <!-- Charting Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>

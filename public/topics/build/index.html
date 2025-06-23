@@ -50,6 +50,29 @@
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+    
 </head>
 <body>
 
@@ -92,8 +115,8 @@
       
       <ul>
       <li>
-        <span class="list-date">Mar 9 &middot;</span>
-        <a href="http://localhost:1313/posts/websitenotes/">Make a Website for Free</a>
+        <span class="list-date">Mar 09 &middot;</span>
+        <a href="http://localhost:1313/posts/makewebsite/">Make a Website for Free</a>
       </li>
       </ul>
       

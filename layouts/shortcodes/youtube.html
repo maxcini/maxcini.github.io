@@ -1,0 +1,31 @@
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $4x3 := .Get "4x3" | default "false" }}
+{{ $title := .Get "title" | default "YouTube Video" }}
+{{ $caption := .Get "caption" }} <!-- Added the caption parameter -->
+
+<div class="video-container" style="position: relative; width: 100%; padding-top: 20px; padding-bottom: 0px; margin-top: 20px; margin-bottom: 20px;">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%;"> <!-- 16:9 Aspect Ratio -->
+    <iframe
+      class="video {{ with $4x3 }}{{ if eq . "true" }}video--4x3{{ else }}video--16x9{{ end }}{{ end }}"
+      src="https://www.youtube-nocookie.com/embed/{{ $id }}?cc_load_policy=1&cc=1{{ with .Get "start" }}&start={{ . }}{{ end }}{{ with .Get "end" }}&end={{ . }}{{ end }}"
+      title="{{ $title }}"
+      frameborder="0"
+      allowfullscreen
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      style="position: absolute; width: 100%; height: 100%;"></iframe>
+  </div>
+</div>
+
+{{ if $caption }} <!-- Check if caption exists -->
+  <div class="video-caption" style="
+    font-size: 1.1rem;
+    vertical-align: baseline;
+    position: relative;
+    max-width: 80%; /* Adjust the max-width for the desired caption width */
+    margin: 0 auto; /* Centers the caption */
+    text-align: center; /* Center the text */
+    margin-top: 10px; /* Adds space between video and caption */
+  ">
+    {{ $caption | markdownify }} <!-- Render the caption using markdownify to allow markdown formatting -->
+  </div>
+{{ end }}

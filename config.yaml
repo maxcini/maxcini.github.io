@@ -1,9 +1,9 @@
-theme: 'hugo-tufte'
+theme: "hugo-tufte"
 languageCode: en-US
-baseurl: 'https://maxcini.com/'
-title: 'Max Mancini'
+baseurl: "https://maxcini.com/"
+title: "Max Mancini"
 canonifyurls: true
-pagination: 
+pagination:
   pagerSize: 5 # Number of posts per page on the home page
 
 # Only modify the following if you know what you are doing
@@ -35,10 +35,9 @@ params:
   # Make the page centred in screen
   centerArticle: false
 
-  # resume: <insert_here> # insert full link here
+  resume: /ManciniMax_PublicResume2025.pdf # insert full link here
   github: /maxcini/maxcini.github.io
   linkedin: /maxcini/
-  youtube: /@maxciniman/playlists # check the end of your youtube url https://www.youtube.com/<copy_this>
 
 taxonomies:
   category: topics # changed "categories" to "topics"
@@ -78,8 +77,8 @@ menu:
 # FOOTER MENU
 # If you need to add custom links to you footer: put them here.
 # -----------------------------------------------------------------------
-  # footer:
-  #   - name: Custom footer link
-  #     weight: -90
-  #     identifier: custom_link
-  #     url: 'https://example.com'
+# footer:
+#   - name: Custom footer link
+#     weight: -90
+#     identifier: custom_link
+#     url: 'https://example.com'

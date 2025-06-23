@@ -6,13 +6,20 @@
     <description>Recent content in Topics on Max Mancini</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Build</title>
-      <link>http://localhost:1313/topics/build/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/build/</guid>
+      <title>Wealth</title>
+      <link>http://localhost:1313/topics/wealth/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/wealth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/topics/notes/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/notes/</guid>
       <description></description>
     </item>
   </channel>

@@ -6,55 +6,55 @@
     <description>Recent content in Home on Max Mancini</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Make a Website for Free</title>
-      <link>http://localhost:1313/posts/websitenotes/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/websitenotes/</guid>
-      <description>This page outlines all of the resources I used to create this website, for free. Full disclosure: I am not a computer geek - this is just what works for me. I&amp;rsquo;ll continue to update this page as I add more to the site.&#xA;Resources&#xD;#&#xD;Static Site Generator (SSG): Hugo Since this website is completely static (just text on a screen), a SSG was a perfect solution to provide fast responsiveness while being easy to deploy and maintain.</description>
+      <title>Build Wealth and Prosper</title>
+      <link>http://localhost:1313/posts/buildwealth/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/buildwealth/</guid>
+      <description>This post summarizes the universal, foundational principles for building wealth in the long term.&#xA;Bottom line: save and invest your money.&#xA;Why Become Wealthy?&#xD;#&#xD;Some people want to be rich so they can buy a Lambo. Or maybe they want a bunch of hookers and cocaine.&#xA;&amp;ldquo;Money talks, wealth whispers&amp;rdquo;&#xA;Generally, reasons to become wealthy include:&#xA;Lifestyle Choices - higher quality of life&#xA;Generational Legacy - better life for your family</description>
     </item>
     <item>
-      <title>How to Build Wealth</title>
-      <link>http://localhost:1313/posts/buildwealth/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/buildwealth/</guid>
-      <description>&#xD;Napoleonic wars. This the image caption.&#xD;Image attribution.&#xD;</description>
+      <title>Make a Website for Free</title>
+      <link>http://localhost:1313/posts/makewebsite/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/makewebsite/</guid>
+      <description>This page outlines all of the resources I used to create this website, for free. I&amp;rsquo;ll continue to update this page as I add more to the site.&#xA;Full disclosure: I am not a computer geek. I&amp;rsquo;ve only ever taken one coding class during freshman year of college&amp;hellip; and I hated it.&#xA;But do not fear, you don&amp;rsquo;t have to be a pro programmer to make a website. Most of the layout will already be set up for you to just fill in the blanks.</description>
     </item>
     <item>
       <title>Tufte CSS</title>
-      <link>http://localhost:1313/posts/tufte-css/</link>
+      <link>http://localhost:1313/posts/defaultposts/tufte-css/</link>
       <pubDate>Mon, 17 Apr 2023 16:03:45 +0100</pubDate>
-      <guid>http://localhost:1313/posts/tufte-css/</guid>
-      <description>Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.⚠&#xD;This demo page is a technical replicate of the original Tufte CSS page on Edward Tufte&amp;rsquo;s GitHub site. Information may not accurately reflect features of the hugo-tufte theme.&#xD;Tufte CSS was created by Dave Liepmann and is now an Edward Tufte project.</description>
+      <guid>http://localhost:1313/posts/defaultposts/tufte-css/</guid>
+      <description>Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.⚠&#xD;This demo page is a technical replicate of the original [Tufte CSS](https://edwardtufte.github.io/tufte-css/) page on Edward Tufte&#39;s GitHub site. Information may not accurately reflect features of the hugo-tufte theme.&#xD;Tufte CSS was created by Dave Liepmann and is now an Edward Tufte project.</description>
     </item>
     <item>
       <title>The big old test page</title>
-      <link>http://localhost:1313/posts/tufte-features/</link>
+      <link>http://localhost:1313/posts/defaultposts/tufte-features/</link>
       <pubDate>Sun, 16 Apr 2023 16:03:45 +0100</pubDate>
-      <guid>http://localhost:1313/posts/tufte-features/</guid>
+      <guid>http://localhost:1313/posts/defaultposts/tufte-features/</guid>
       <description>New features&#xD;#&#xD;Emoji&#xD;#&#xD;Powered by Noto Emoji font.&#xA;We really like cats. Yes, they are fluffy and happy. 🐈🐱&#xA;🪷🫶🤍😊💀🔥&#xA;Button&#xD;#&#xD;✅&#xD;Open all notes&#xD;❎&#xD;Close all notes&#xD;🔄&#xD;Toggle all notes&#xD;{{&amp;lt; button style=&amp;#34;primary&amp;#34; icon=&amp;#34;🔄&amp;#34; href=&amp;#34;javascript:javascript:(function(){function checkFrames(w) {try {var inputs = w.document.getElementsByTagName(&amp;#39;input&amp;#39;);for (var i=0; i &amp;lt; inputs.length; i++) {if (inputs[i].type &amp;amp;&amp;amp; inputs[i].type == &amp;#39;checkbox&amp;#39;){inputs[i].checked = !inputs[i].checked;}}} catch (e){}if(w.frames &amp;amp;&amp;amp; w.frames.length&amp;gt;0){for(var i=0;i&amp;lt;w .frames.length;i++){var fr=w.frames[i];checkFrames(fr);}}}checkFrames(window);})()&amp;#34; &amp;gt;}} Toggle all notes {{&amp;lt; /button &amp;gt;}} Cols (with lang option)&#xD;#&#xD;Certain things do not work with this shortcode layout, for example, Markdown&amp;rsquo;s default footnote (like [^1]).</description>
     </item>
     <item>
       <title>More math</title>
-      <link>http://localhost:1313/posts/more-maths/</link>
+      <link>http://localhost:1313/posts/defaultposts/more-maths/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
-      <guid>http://localhost:1313/posts/more-maths/</guid>
+      <guid>http://localhost:1313/posts/defaultposts/more-maths/</guid>
       <description>&lt;p&gt;A compilation of &lt;code&gt;$\LaTeX$&lt;/code&gt; formulas&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blockquotes</title>
-      <link>http://localhost:1313/posts/blockquote/</link>
+      <link>http://localhost:1313/posts/defaultposts/blockquote/</link>
       <pubDate>Mon, 19 Jan 2015 23:57:58 -0800</pubDate>
-      <guid>http://localhost:1313/posts/blockquote/</guid>
+      <guid>http://localhost:1313/posts/defaultposts/blockquote/</guid>
       <description>&lt;p&gt;Below is a blockquote.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,&#xA;consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.&#xA;Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;&#xA;&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse&#xA;id sem consectetuer libero luctus adipiscing.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Just another sample post</title>
-      <link>http://localhost:1313/posts/new/</link>
+      <link>http://localhost:1313/posts/defaultposts/new/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new/</guid>
+      <guid>http://localhost:1313/posts/defaultposts/new/</guid>
       <description>First heading&#xD;#&#xD;Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.&#xA;Sub heading&#xD;#&#xD;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, perferendis saepe voluptatem a nesciunt architecto voluptas deleniti dolor tempora quasi quidem odit rem fugit magnam minima quam dolores vel id?</description>
     </item>
   </channel>

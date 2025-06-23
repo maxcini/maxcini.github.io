@@ -1,0 +1,141 @@
+<div id="investment-chart-wrapper" style="width: 100%; max-width: 750px; margin-left: 0; margin-right: auto;">
+    <canvas id="investmentChart" style="height: 500px;"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Original Annual Data
+        const years = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40];
+        const annualDeposits = [6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000,6000];
+        const annualInterest = [176.72,578.20,1005.79,1461.16,1946.14,2462.64,3012.71,3598.54,4222.44,4886.90,5594.55,6348.19,7150.83,8005.63,8916.00,9885.54,10918.10,12017.77,13188.93,14436.21,15764.56,17179.26,18685.91,20290.49,21999.37,23819.33,25757.59,27821.83,30020.25,32361.57,34855.07,37510.65,40338.84,43350.87,46558.68,49974.99,53613.36,57488.23,61614.97,66009.94];
+
+        // --- Calculate Cumulative Data ---
+        let cumulativeDeposits = [];
+        let cumulativeInterest = [];
+        let currentDepositSum = 0;
+        let currentInterestSum = 0;
+
+        for (let i = 0; i < years.length; i++) {
+            currentDepositSum += annualDeposits[i];
+            currentInterestSum += annualInterest[i];
+            cumulativeDeposits.push(currentDepositSum);
+            cumulativeInterest.push(currentInterestSum);
+        }
+        // --- End Cumulative Calculation ---
+
+        const ctx = document.getElementById('investmentChart');
+
+        if (ctx) {
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: years,
+                    datasets: [{
+                        label: 'Contributions',
+                        data: cumulativeDeposits,
+                        backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    }, {
+                        label: 'Interest',
+                        data: cumulativeInterest,
+                        backgroundColor: 'rgba(255, 159, 64, 0.8)',
+                        borderColor: 'rgba(255, 159, 64, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Investment Growth: Contributions & Interest',
+                            font: {
+                                size: 20,
+                                family: 'Inter, sans-serif'
+                            }
+                        },
+                        tooltip: {
+                            mode: 'index', // Show tooltip for all datasets at the hovered index
+                            intersect: false, // Show tooltip even if not directly over a data point
+                            callbacks: {
+                                // Display the Year at the top of the tooltip
+                                title: function(tooltipItems) {
+                                    return 'Year: ' + years[tooltipItems[0].dataIndex];
+                                },
+                                // This callback runs for EACH dataset in the tooltipItems array
+                                // It will automatically show 'Total Contributions' and 'Total Interest Earned'
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    const value = context.raw;
+                                    return label + `$${value.toLocaleString()}`;
+                                },
+                                // This callback runs ONCE at the bottom of the tooltip
+                                footer: function(tooltipItems) {
+                                    const yearIndex = tooltipItems[0].dataIndex;
+                                    const totalForYear = cumulativeDeposits[yearIndex] + cumulativeInterest[yearIndex];
+                                    return `Total Value: $${totalForYear.toLocaleString()}`;
+                                }
+                            }
+                        },
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                font: {
+                                    size: 14,
+                                    family: 'Inter, sans-serif'
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            stacked: true,
+                            title: {
+                                display: true,
+                                text: 'Year',
+                                font: {
+                                    size: 16,
+                                    family: 'Inter, sans-serif'
+                                }
+                            },
+                            ticks: {
+                                font: {
+                                    family: 'Inter, sans-serif'
+                                }
+                            }
+                        },
+                        y: {
+                            stacked: true,
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Amount ($)',
+                                font: {
+                                    size: 16,
+                                    family: 'Inter, sans-serif'
+                                }
+                            },
+                            ticks: {
+                                callback: function(value, index, values) {
+                                    return '$' + value.toLocaleString();
+                                },
+                                font: {
+                                    family: 'Inter, sans-serif'
+                                }
+                            }
+                        }
+                    },
+                    animation: {
+                        duration: 1000,
+                        easing: 'easeInOutQuad'
+                    }
+                }
+            });
+        }
+    });
+</script>

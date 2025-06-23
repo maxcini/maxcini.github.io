@@ -50,6 +50,29 @@
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+    
 </head>
 <body>
 
@@ -108,7 +131,7 @@ Link to <a href="https://github.com/maxcini/maxcini.github.io" target="_blank">t
 </ol>
 <p>In addition to the default Tufte CSS styling, some additional design decisions help drive how the site looks and functions:</p>
 <ul>
-<li>Practical Typography: <a href="https://practicaltypography.com/typography-in-ten-minutes.html" target="_blank">Butterick&rsquo;s Practical Typography</a></li>
+<li><a href="https://practicaltypography.com/typography-in-ten-minutes.html" target="_blank">Butterick&rsquo;s Practical Typography</a></li>
 <li>Interactive Visuals:
 <ul>
 <li>Simple: <a href="https://www.chartjs.org/" target="_blank">Chart.js</a></li>
@@ -142,18 +165,20 @@ For examle, see <a href="https://www.youtube.com/watch?v=0RKpf3rK57I" target="_b
 <li>Search Engine Optimization (SEO)</li>
 <li>Google Analytics</li>
 </ul>
-<p>*Final note: practice a little bit of patience when building your site. It will be fustrating at times - take a break for a bit and come back to it later. In the end, it&rsquo;ll be worth it. You can do it! Good luck!</p>
+<p>*Final note: practice a little bit of patience when building your site. Stuff will break. It will be fustrating at times. Take a break for a bit and come back to it later. In the end, it&rsquo;ll be worth it. You can do it! Good luck!</p>
 </section>
   <section><footer class="page-footer">
     <hr />
     
     <div class="previous-post" style="display:inline-block;">
       
-      <a class="link-reverse" href="http://localhost:1313/posts/buildwealth/?ref=footer">« How to Build Wealth</a>
+      <a class="link-reverse" href="http://localhost:1313/posts/tufte-css/?ref=footer">« Tufte CSS</a>
       
     </div>    
     
     <div class="next-post" style="display:inline-block;float:right;">
+      
+      <a class="link-reverse" href="http://localhost:1313/posts/buildwealth/?ref=footer">Build Wealth »</a>
       
     </div>
     

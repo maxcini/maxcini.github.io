@@ -1,0 +1,27 @@
+<style>
+    /* Optional: Make the embed responsive */
+    .powerbi-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 65%; /* adjust aspect ratio to fit page properly (height/width * 100%) */
+        height: 0;
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+    .powerbi-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<div class="powerbi-container">
+    <iframe
+        title="{{ .Get "title" | default "Power BI Report" }}"
+        src="https://app.powerbi.com/view?{{ .Get "id" | safeURL }}"
+        frameborder="0"
+        allowFullScreen="true"
+    ></iframe>
+</div>

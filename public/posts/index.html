@@ -38,8 +38,6 @@
 
 <link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
 
-<script src="https://d3js.org/d3.v6.min.js"></script>
-
 
 <link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon/favicon.ico">
 
@@ -50,6 +48,31 @@
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
@@ -92,21 +115,15 @@
       
       <ul>
       <li>
-        <span class="list-date">Mar 9 &middot;</span>
-        <a href="http://localhost:1313/posts/websitenotes/">Make a Website for Free</a>
+        <span class="list-date">Jun 22 &middot;</span>
+        <a href="http://localhost:1313/posts/buildwealth/">Build Wealth and Prosper</a>
       </li>
       </ul>
       
-    </li>
-    </ul>
-    
-    <ul>
-    
-      
       <ul>
       <li>
-        <span class="list-date">Jan 31 &middot;</span>
-        <a href="http://localhost:1313/posts/buildwealth/">How to Build Wealth</a>
+        <span class="list-date">Jun 10 &middot;</span>
+        <a href="http://localhost:1313/posts/makewebsite/">Make a Website for Free</a>
       </li>
       </ul>
       
@@ -124,14 +141,14 @@
       <ul>
       <li>
         <span class="list-date">Apr 17 &middot;</span>
-        <a href="http://localhost:1313/posts/tufte-css/">Tufte CSS</a>
+        <a href="http://localhost:1313/posts/defaultposts/tufte-css/">Tufte CSS</a>
       </li>
       </ul>
       
       <ul>
       <li>
         <span class="list-date">Apr 16 &middot;</span>
-        <a href="http://localhost:1313/posts/tufte-features/">The big old test page</a>
+        <a href="http://localhost:1313/posts/defaultposts/tufte-features/">The big old test page</a>
       </li>
       </ul>
       
@@ -149,7 +166,7 @@
       <ul>
       <li>
         <span class="list-date">Jul 20 &middot;</span>
-        <a href="http://localhost:1313/posts/more-maths/">More math</a>
+        <a href="http://localhost:1313/posts/defaultposts/more-maths/">More math</a>
       </li>
       </ul>
       
@@ -167,7 +184,7 @@
       <ul>
       <li>
         <span class="list-date">Jan 19 &middot;</span>
-        <a href="http://localhost:1313/posts/blockquote/">Blockquotes</a>
+        <a href="http://localhost:1313/posts/defaultposts/blockquote/">Blockquotes</a>
       </li>
       </ul>
       
@@ -185,7 +202,7 @@
       <ul>
       <li>
         <span class="list-date">Mar 29 &middot;</span>
-        <a href="http://localhost:1313/posts/new/">Just another sample post</a>
+        <a href="http://localhost:1313/posts/defaultposts/new/">Just another sample post</a>
       </li>
       </ul>
       
@@ -212,6 +229,8 @@
 
       
       
+      <li><a href="http://localhost:1313/ManciniMax_PublicResume2025.pdf" target="_blank">Resume</a></li>
+      
 
       
       <li><a href="https://linkedin.com/in/maxcini/" target="_blank">LinkedIn</a></li>
@@ -219,10 +238,6 @@
     
       
       <li><a href="https://github.com/maxcini/maxcini.github.io" target="_blank">GitHub</a></li>
-      
-    
-      
-      <li><a href="https://www.youtube.com/@maxciniman/playlists" target="_blank">YouTube</a></li>
       
     
       

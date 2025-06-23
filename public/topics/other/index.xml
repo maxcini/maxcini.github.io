@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Max Mancini</title>
+    <link>http://localhost:1313/topics/other/</link>
+    <description>Recent content in Other on Max Mancini</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make a Website for Free</title>
+      <link>http://localhost:1313/posts/makewebsite/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/makewebsite/</guid>
+      <description>This page outlines all of the resources I used to create this website, for free. I&amp;rsquo;ll continue to update this page as I add more to the site.&#xA;Full disclosure: I am not a computer geek. I&amp;rsquo;ve only ever taken one coding class during freshman year of college&amp;hellip; and I hated it.&#xA;But do not fear, you don&amp;rsquo;t have to be a pro programmer to make a website. Most of the layout will already be set up for you to just fill in the blanks.</description>
+    </item>
+  </channel>
+</rss>

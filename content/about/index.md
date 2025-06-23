@@ -4,7 +4,7 @@ hasMath: false
 _build:
   list: never
 ---
-Engineer passionate about energy, data, and building cool stuff. 
+Energy enthusiast, data junkie, aspiring business professional. 
 {{< figure
   src="headshot.webp"
   type="margin"
@@ -12,6 +12,7 @@ Engineer passionate about energy, data, and building cool stuff.
 {{< figure
   src="faviconMaxSignature.jpg"
   type="margin"
+  id="myAboutPageLogo" 
 >}}
 
 >"Started with the Legos, now we're here." 
@@ -21,5 +22,7 @@ I created this website to improve my communication skills through a writing styl
 - Clear and direct information 
 - High-quality visuals 
 - Engaging storytelling
+
+Just a bunch of notes about anything, really.
 
 Enjoy :)

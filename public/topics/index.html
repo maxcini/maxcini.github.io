@@ -37,8 +37,6 @@
 
 <link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
 
-<script src="https://d3js.org/d3.v6.min.js"></script>
-
 
 <link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon/favicon.ico">
 
@@ -49,6 +47,31 @@
 <link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313/favicon/favicon-192x192.png">
 
 
+<script type="text/javascript">
+      window.onload = function() {
+        function checkFrames(w) {
+          try {
+            var inputs = w.document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+              if (inputs[i].type && inputs[i].type == 'checkbox') {
+                inputs[i].checked = true;  
+              }
+            }
+          } catch (e) {}
+          
+          if (w.frames && w.frames.length > 0) {
+            for (var i = 0; i < w.frames.length; i++) {
+              var fr = w.frames[i];
+              checkFrames(fr);  
+            }
+          }
+        }
+        checkFrames(window);  
+      }
+    </script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 
@@ -80,31 +103,42 @@
 
     
     <div class="pure-g">
-      
-
       <div class="pure-u-1 pure-u-sm-1-2">
         
         <section>
         <table class="pure-table pure-table-horizontal pure-table-striped">
         <thead>
           <tr>
-            <th>Term</th>
+            <th>Category</th>
             <th>Count</th>
           </tr>
         </thead>
         </tbody>
         
           <tr>
-            <td><a href="build">
-              build
-            </a></td>
+            <td>
+            <a href="notes">
+            notes
+            </a>
+            </td>
+            <td style="text-align: center;">1</td>
+          </tr>
+        
+          <tr>
+            <td>
+            <a href="wealth">
+            wealth
+            </a>
+            </td>
             <td style="text-align: center;">1</td>
           </tr>
         
         </tbody>
         </table>
-        </section>
+      </section>
       </div>
+
+      
     </div>
 <footer class="page-footer">
     <hr />
@@ -122,6 +156,8 @@
 
       
       
+      <li><a href="http://localhost:1313/ManciniMax_PublicResume2025.pdf" target="_blank">Resume</a></li>
+      
 
       
       <li><a href="https://linkedin.com/in/maxcini/" target="_blank">LinkedIn</a></li>
@@ -129,10 +165,6 @@
     
       
       <li><a href="https://github.com/maxcini/maxcini.github.io" target="_blank">GitHub</a></li>
-      
-    
-      
-      <li><a href="https://www.youtube.com/@maxciniman/playlists" target="_blank">YouTube</a></li>
       
     
       

@@ -56,7 +56,8 @@ body {
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
     background-color: #fffff8;
     color: #111;
-    max-width: 1400px;
+    /* changed from 1400 to 1375 to get rid of scroller */
+    max-width: 1375px;
     counter-reset: sidenote-counter;
 }
 
@@ -194,7 +195,8 @@ section > table {
 section > dl,
 section > ol,
 section > ul {
-    width: 50%;
+    /* changed from 50% to 90% to expand bullet point line length */
+    width: 90%; 
     -webkit-padding-start: 5%;
 }
 
@@ -228,7 +230,8 @@ figcaption {
 }
 
 figure.fullwidth figcaption {
-    margin-right: 24%;
+    /* margin-right: 24%; */
+    width: 50%; /* You can adjust the width to your needs */
 }
 
 a:link,
@@ -241,6 +244,8 @@ a:visited {
 /* Sidenotes, margin notes, figures, captions */
 img {
     max-width: 100%;
+    height: auto;
+    display: block; 
 }
 
 .sidenote,
@@ -391,7 +396,8 @@ label.margin-toggle:not(.sidenote-number) {
 
     body {
         width: 90%;
-        padding-left: 6%;
+        /* adjust mobile article margins */
+        padding-left: 3%;
         padding-right: 3%;
     }
 
@@ -418,8 +424,13 @@ label.margin-toggle:not(.sidenote-number) {
 
     figcaption,
     figure.fullwidth figcaption {
-        margin-right: 0%;
-        max-width: none;
+            margin-right: 0%;        /* Remove any right margin */
+            max-width: none;         /* Remove max-width restriction */
+            text-align: center;      /* Center the caption text */
+            margin-left: auto;       /* Auto margin to center */
+            margin-right: auto;      /* Auto margin to center */
+            display: block;          /* Ensure figcaption is a block element */
+            width: 100%;             /* Ensure figcaption takes full width of the container */
     }
 
     blockquote {
@@ -448,7 +459,7 @@ label.margin-toggle:not(.sidenote-number) {
         left: 1rem;
         clear: both;
         width: 95%;
-        margin: 1rem 2.5%;
+        margin: 1rem 0%;
         vertical-align: baseline;
         position: relative;
     }
@@ -465,4 +476,22 @@ label.margin-toggle:not(.sidenote-number) {
     img {
         width: 100%;
     }
+
+    /* added to reduce Max sig img size on mobile format */
+    #myAboutPageLogo { 
+        max-width: 44%; 
+        height: auto;   
+    }
+
+    .list-page ul {
+        list-style-type: none;
+        margin: -0.25em;
+        width: 95.5%;
+        max-width: 45rem;
+    }
+}
+/* changed from 0.5rem to 0 to make bullets closer together */
+li,
+dt, dd {
+    padding: 0.0rem 0;
 }
