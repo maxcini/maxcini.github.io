@@ -195,9 +195,16 @@ section > table {
 section > dl,
 section > ol,
 section > ul {
-    /* changed from 50% to 90% to expand bullet point line length */
-    width: 90%; 
+    width: 50%; 
     -webkit-padding-start: 5%;
+}
+
+li, dt, dd {
+    padding: 0.5rem;
+    white-space: normal; 
+    overflow-wrap: normal; 
+    word-break: normal; 
+    hyphens: auto;
 }
 
 dt:not(:first-child),
@@ -489,9 +496,4 @@ label.margin-toggle:not(.sidenote-number) {
         width: 95.5%;
         max-width: 45rem;
     }
-}
-/* changed from 0.5rem to 0 to make bullets closer together */
-li,
-dt, dd {
-    padding: 0.0rem 0;
 }

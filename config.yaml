@@ -16,7 +16,7 @@ markup:
     guessSyntax: true
 
 params:
-  subtitle: "less is more"
+  subtitle: "Primum vivere, deinde philosophari"
   favicon: "./favicon.ico" # how do I link to custom?
   touchicon: "./touch-icon.png"
   codeblocksdark: false # Dark code highlighting
@@ -35,7 +35,6 @@ params:
   # Make the page centred in screen
   centerArticle: false
 
-  resume: /ManciniMax_PublicResume2025.pdf # insert full link here
   github: /maxcini/maxcini.github.io
   linkedin: /maxcini/
 
