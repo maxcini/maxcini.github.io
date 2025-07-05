@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/makewebsite/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/makewebsite/</guid>
-      <description>This page outlines all of the resources I used to create this website, for free. I&amp;rsquo;ll continue to update this page as I add more to the site.&#xA;Full disclosure: I am not a computer geek. I&amp;rsquo;ve only ever taken one coding class during freshman year of college&amp;hellip; and I hated it.&#xA;But do not fear, you don&amp;rsquo;t have to be a pro programmer to make a website. Most of the layout will already be set up for you to just fill in the blanks.</description>
+      <description>The best reason to write online is to share your ideas with others.&#xA;Here, I&amp;rsquo;ve outlined all the resources I used to build this website. I&amp;rsquo;ll keep this page updated as I add more content and tools.&#xA;Resources&#xD;#&#xD;Static Site Generator (SSG): Hugo Since this website is completely static (just text on a screen), an SSG was the perfect solution for customizability and fast responsiveness, while being both easy to deploy and maintain.</description>
     </item>
   </channel>
 </rss>

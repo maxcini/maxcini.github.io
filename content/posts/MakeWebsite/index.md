@@ -10,11 +10,9 @@ math: false
 draft: false
 ---
 
-This page outlines all of the resources I used to create this website, for free. I'll continue to update this page as I add more to the site.
+The best reason to write online is to share your ideas, experiences, and lessons with others.
 
-Full disclosure: I am not a computer geek. I've only ever taken one coding class during freshman year of college... and I hated it. 
-
-But do not fear, you don't have to be a pro programmer to make a website. Most of the layout will already be set up for you to just fill in the blanks.
+Here, I've outlined all the resources I used to build this website. I'll keep this page updated as I add more content and tools.
 
 ---
 
@@ -22,9 +20,9 @@ But do not fear, you don't have to be a pro programmer to make a website. Most o
 
 1. Static Site Generator (SSG): <a href="https://gohugo.io/" target="_blank">Hugo</a>
 
-Since this website is completely static (just text on a screen), a SSG was a perfect solution to provide fast responsiveness while being easy to deploy and maintain. I like Hugo's easy to work with format and clear documentation.
+An SSG is a perfect solution for a static, blog-focused website primarily composed of just text. They're lightweight and fast, easy to deploy and maintain, and offer great customizability in web design and features. I like Hugo for its simple organizational structure and clear documentation.
 
-SSGs are a great starting point because they have many themes to choose from and build off of. The theme I used is based on the Edward Tufte CSS - a timeless, minimalist design with with beautiful typography. The styling also allows for great use of sidenotes and visuals. 
+SSGs are also a great starting point because they have many themes to choose from and build upon. The theme I used is based on the Edward Tufte CSS: simple, with well-set typography, extensive sidenotes, and tight integration of graphics and charts.
 {{< marginnote >}}Links to <a href="https://github.com/loikein/hugo-tufte" target="_blank">Hugo theme</a> and original <a href="https://github.com/edwardtufte/tufte-css" target="_blank">Tufte CSS</a><br><a href="https://gohugo.io/getting-started/quick-start/" target="_blank">Hugo: quick start doc</a> {{< /marginnote >}}
 
 2. Code Editor: <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
@@ -33,12 +31,12 @@ I use VS Code to edit the files (html, css) for the design of this site, along w
 
 3. Web Hosting: <a href="https://github.com/" target="_blank">GitHub Pages</a>
 
-In addition to being the repository for the site code, GitHub can be used to host static websites, completely for free. Serving as an all-in-one solution, GitHubs integration makes updating and deploying the site seamless.
+In addition to being the repository for the site code, GitHub can be used to host static websites, completely for free. Serving as an all-in-one solution, GitHub's integration makes updating and deploying the site seamless.
 {{< marginnote >}}Link to <a href="https://github.com/maxcini/maxcini.github.io" target="_blank">code for this site</a><br><a href="https://gohugo.io/host-and-deploy/host-on-github-pages/" target="_blank">Hugo: host on GitHub Pages doc</a> {{< /marginnote >}}
 
 4. Domain Name Registration: <a href="https://porkbun.com/" target="_blank">Porkbun</a>
 
-OK, I lied. There is one thing that's not free, and that's the domain name (maxcini.com). It only costs $10/yr, which I think is worth it for having an asthetic, personalized URL. But it is completely optional, and the default github.io URL works fine. 
+OK, I spoke too soon. There is one thing that's not free, and that's the domain name (maxcini.com). It only costs $10/yr, which I think is worth it for having an aesthetic, personalized URL. But it is completely optional, and the default `github.io` URL works fine. 
 {{< marginnote >}} <a href="https://kb.porkbun.com/article/64-how-to-connect-your-domain-to-github-pages" target="_blank">Porkbun: connect domain to GitHub Pages doc</a> {{< /marginnote >}}
 
 5. Web Design/Tools
@@ -57,4 +55,4 @@ In addition to the default Tufte CSS styling, some additional design decisions h
 Whether it was watching a video walkthrough tutorial on how to set up the website, or using AI to help debug the code, these tools were (and still are) essential in developing, launching, and maintaining the site. 
 {{< marginnote >}}For example, see <a href="https://www.youtube.com/watch?v=0RKpf3rK57I" target="_blank">Hugo in 100 Seconds</a>, or search for more specific tasks {{< /marginnote >}}
 
-*Final note: Stuff will break. It'll be fustrating at times. But with a bit of patience and preserverance, it'll all be worth it in the end. GLHF!
+*Final note: Things will break and it'll be frustrating at times. But with a little bit of patience and perseverance, it will all be worth it in the end. Good luck, have fun!

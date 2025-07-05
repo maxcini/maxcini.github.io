@@ -4,7 +4,10 @@ hasMath: false
 _build:
   list: never
 ---
-Energy enthusiast, data junkie, aspiring business professional. 
+
+Welcome! 
+
+I’m Max Mancini, and this is my personal website where I aim to provide useful, data-driven insights. 
 {{< figure
   src="headshot.webp"
   type="margin"
@@ -15,14 +18,11 @@ Energy enthusiast, data junkie, aspiring business professional.
   id="myAboutPageLogo" 
 >}}
 
->"Started with the Legos, now we're here." 
-
-I created this website to improve my communication skills through a writing style that prioritizes:
-
-- Clear and direct information 
-- High-quality visuals 
+My goal is to break down complex topics into easy, actionable steps that can significantly benefit you through a writing style that prioritizes: 
+- Clear and direct information
+- High-quality visuals
 - Engaging storytelling
 
-Just a bunch of notes about anything, really.
+Around here we'll discuss business, finance, technology, and health. 
 
 Enjoy :)

@@ -1,6 +1,6 @@
 ---
 author: Max Mancini
-date: '2025-06-22'
+date: '2025-07-04'
 title: Build Wealth and Prosper
 # subtitle: subtitle
 description: Make it out the middle class with this one
@@ -8,7 +8,7 @@ meta: true
 math: true
 toc: true
 topics:
-    - "wealth"
+    - "Money"
 draft: false
 ---
 
@@ -40,10 +40,10 @@ Maximize income and minimize expenses to increase your savings rate, and hence y
 
 Some ways to maximize income include: 
 
-- **Career Advancement**: Get an advanced degree in a high paying field, such as engineering or finance, and climb the ladder
-{{< marginnote >}}Some companies will fully fund part-time masters degrees while you work{{< /marginnote >}}
+- **Career Advancement**: Get an advanced degree in a high-paying field, such as engineering or finance, and climb the ladder
+{{< marginnote >}}Some companies will fully fund part-time master's degrees while you work{{< /marginnote >}}
 - **Skill Development**: Specialize in a high-paying skill with a large income potential, such as sales or a skilled trade
-- **Side Business**: Start a side-gig selling goods or services, such as content creation or freelance work, and scale it up
+- **Side Business**: Start a side gig selling goods or services, such as content creation or freelance work, and scale it up
 
 Minimize expenses by targeting large purchases that have a big impact on spending, such as choosing a modest home and driving a practical car.
 
@@ -70,7 +70,7 @@ Increasing your income makes it easier to build wealth, as it allows you to enjo
 
 In the example budget above, an extra $5k/yr in take-home pay increases salary by 10%. But by keeping expenses the same and investing all of the extra cash, investments go from $15k/yr to $20k/yr, a 33% increase!
 
-However, uncontrolled spending and poor financial planning can quickly erode any chance you have of building wealth. Therefore, keeping expenses in check is just as important as increasing your income.{{< marginnote >}}Avoid lifestyle creep{{< /marginnote >}} 
+However, uncontrolled spending and poor financial planning can quickly erode any chance you have of building wealth. Therefore, keeping expenses in check is just as important as increasing your income.{{< marginnote >}}Avoid lifestyle creep: you save 100% of the money you don't spend{{< /marginnote >}} 
 
 ---
 
@@ -102,11 +102,9 @@ Once a man was lying on the steps of a plaza. A passerby awoke the man to say, "
 
 Valuation is subjective; everyone has different definitions of needs vs wants based on their values, priorities, and situations. As a result, there is no single amount of money that will be satisfactory for all. 
 
-While it's more about the journey than the destination, having a financial goal is important to keep you motivated towards success. To quantify it, 
+While it's more about the journey than the destination, having a financial goal is important to keep you motivated toward success. To quantify it, 
 
-<!-- change the format of the line below so it doesnt show up in the toc -->
-define your dream lifestyle, then calculate the cost to make it a reality.
----
+> Define your dream lifestyle, then calculate the cost to make it a reality.
 
 Don't hold back here folks. Write down what you truly want more than anything, then figure out what it would take to make it obtainable and maintainable. 
 
@@ -135,6 +133,8 @@ $$
 The 4% rule originates from the Trinity study, and results in a ~95% likelihood of positive portfolio balance after 30 years of withdrawals. For longer time horizons, use a more conservative withdrawal rate, such as 3.5%.
 {{< marginnote >}}<a href="https://www.firecalc.com/index.php?wdamt=40000&PortValue=1000000&term=30&callprocess2=Submit&ss1=0&ssy1=2038&ss2=0&ssy2=2040&signwd1=%2B&chwd1=0&chyr1=2028&wd1infl=adj&signwd2=%2B&chwd2=0&chyr2=2030&wd2infl=adj&signwd3=%2B&chwd3=0&chyr3=2034&wd3infl=adj&holdyears=2025&preadd=0&inflpick=4&override_inflation_rate=3.0&SpendingModel=constant&age=48&pctlastyear=0&infltype=PPI&fixedinc=Commercial+Paper&user_bonds=4.0&InvExp=0.18&monte=history&StartYr=1871&fixedchoice=LongInterest&pctEquity=75&mix1=10&mix2=10&mix3=10&mix4=40&mix5=40&mix6=10&mix7=15&mix8=5&user_inflation=3.0&monte_growth=10&monte_sd=10&monte_inflation=3.00&signlump1=%2B&cashin1=0&cashyr1=2028&signlump2=%2B&cashin2=0&cashyr2=2038&signlump3=%2B&cashin3=0&cashyr3=2043&process=survival&showyear=1960&delay=10&goal=95&portfloor=0&FIRECalcVersion=3.0&" target="_blank">FIRECalc</a> is a useful tool for backtesting different withdrawal rates{{< /marginnote >}}
 
+<!-- note about Coast FIRE? -->
+
 ## Where to Start?
 
 With your goal in mind, where to start first can be hard. Let's make it easy by identifying where your money will have the greatest utility for your current situation.
@@ -151,7 +151,7 @@ For a detailed plan, follow the general order of operations:
 
 - **Step 1: Emergency Fund** - Set aside 3-6 months of expenses for emergencies (laid off, car breaks down, injury, etc.)
 - **Step 2: Pay Off High-Interest Debt** - Debt over 7-10% interest, it's a guaranteed return on your money and reduces risk/stress
-- **Step 3: Save for Retirement** - Invest in tax advantaged accounts: 401k match (free money), HSA, and Roth IRA
+- **Step 3: Save for Retirement** - Invest in tax-advantaged accounts: 401k match (free money), HSA, and Roth IRA
 - **Step 4: Save for Big Purchases** - House, wedding, family costs, college, vacations, etc.
 - **Step 5: Do as You Please** - Max out 401k, taxable investments, pay off low-interest debt, give to others, splurge on yourself
 
@@ -181,7 +181,7 @@ Furthermore, this online flowchart offers greater detail about where to stash th
   caption="Source: <a href='https://www.reddit.com/r/financialindependence/comments/16xymii/fire_flow_chart_version_43/' target='_blank'>r/financialindependence</a>"
   label=""
   attr=""
-  alt="Finacial flow chart showing where to put your money first, ranging across sections in: Budget and Essentials, Employer Match and Emergency Fund, Debt Reduction, Health Savings Account, Individual Retirement Account, Additional Savings, Taxable Account and Low Interest Loans."
+  alt="Finacial flow chart showing where to put your money first, ranging across sections in: Budget and Essentials, Employer Match and Emergency Fund, Debt Reduction, Health Savings Account, Individual Retirement Account, Additional Savings, Taxable Account and Low-Interest Loans."
   link=""
 >}}
 
@@ -259,14 +259,13 @@ By increasing the rolling period, the following trends can be observed:
 - **Less volatility:** The standard deviation of returns decreases
 - **More likely to profit:** The % of periods with positive returns increases
 
-Most importantly, the minimum rate of return becomes positive after 20 years. This means for any 20-year period since 1871, even if you bought the index right before a recession (worst case scenario), you still would've made money.
+Most importantly, the minimum rate of return becomes positive after 20 years. This means for any 20-year period since 1871, even if you bought the index right before a recession (worst-case scenario), you still would've made money.
 
 This understanding is crucial in developing a deep level of confidence in your investing strategy. Specifically, the ability to weather the storms and avoid selling your investments when times are bad, which is often the worst time to sell. 
 
 Observe that for any 1-year period, the minimum return (or maximum drawdown) is -58%! Would you have a strong enough stomach to see all of your invested savings, likely majority of your net worth, get cut by more than half in just one year's time and not panic sell out of your investments? 
 
-<!-- maybe make this flow a bit better -->
-Historically, there have been <a href="https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes" target="_blank">19 stock market crashes since 1871</a> (-20% drawdown or more), averaging out to about 1 crash per decade. Since some crashes can take multiple years to recover and reach new highs, you should only invest money that you do not need in the short-term.
+Historically, there have been <a href="https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes" target="_blank">19 stock market crashes since 1871</a> (-20% drawdown or more), averaging out to about 1 crash per decade. Since some crashes can take multiple years to recover and reach new highs, you should only invest money that you do not need in the short term.
 
 Despite these periods of volatility and downturns, the market has always recovered and continued to grow in the long run. No matter good markets or bad, the most likely way to achieve the highest returns is to remain fully invested. This is because it is impossible to time the market and predict if and when stocks are going to go up or down. 
 
@@ -289,7 +288,7 @@ For these reasons, it's recommended to remain fully invested through good market
 
 ---
 
-Now that we've established confidence in a long-term investment growth strategy, let's revisit our example from the goal setting section: If you needed $1M dollars to become financially free, how long would it take for you to become a millionaire? 
+Now that we've established confidence in a long-term investment growth strategy, let's revisit our example from the goal-setting section: If you needed $1M dollars to become financially free, how long would it take for you to become a millionaire? 
 
 You can use <a href="https://www.calculator.net/investment-calculator.html?ctype=endamount&ctargetamountv=1%2C000%2C000&cstartingprinciplev=0&cyearsv=40&cinterestratev=6.5&ccompound=annually&ccontributeamountv=500&cadditionat1=end&ciadditionat1=monthly&printit=0&x=Calculate#calresult" target="_blank">this investment calculator</a> to model different scenarios based on your initial amount, monthly contributions, rate of return, and time horizon. Assuming an inflation-adjusted, market-average return of 6.5%, here are a few examples:
 
@@ -299,9 +298,9 @@ You can use <a href="https://www.calculator.net/investment-calculator.html?ctype
 | $0      | $1,000 | 30Y |
 | $0      | $500   | 40Y |
 
-In the 20 Year scenario, $500k of the final $1M is from investment interest. But in the 40 Year scenario, this number increases to over $750k! By giving your investments twice as long to grow, you need 50% less total money to reach the same financial goal. 
+In the 20-Year scenario, $500k of the final $1M is from investment interest. But in the 40-Year scenario, this number increases to over $750k! By giving your investments twice as long to grow, you need 50% less total money to reach the same financial goal. 
 
-Looking at the 40 Year scenario in more detail, you can see how the growth accelerates: it takes 20 years for your contributions to double, but then it only takes 10 years after that to triple, and then only 7 years after that to quadruple.
+Looking at the 40-Year scenario in more detail, you can see how the growth accelerates: it takes 20 years for your contributions to double, but then it only takes 10 years after that to triple, and then only 7 years after that to quadruple.
 
 {{< buildwealthmilliongainzchart >}}
 
@@ -327,17 +326,3 @@ In summary,
 And continuously pursue furthering your financial knowledge. 
 
 Thank you for reading! 
-
-
-
-<!-- Blogroll: 
-- <a href="https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/" target="_blank">Mr. Money Mustachianism</a>
-- JL Collins <a href="https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/" target="_blank">A Simple Path to Wealth</a> and the famous <a href="https://jlcollinsnh.com/stock-series/" target="_blank">Stock Series</a>
-- Nick Magiulli's <a href="https://ofdollarsanddata.com/popular-posts/" target="_blank">Of Dollars And Data</a> and <a href="https://ofdollarsanddata.com/just-keep-buying/" target="_blank">Just Keep Buying</a> philosophy -->
-
-
-
-<!-- # NOTES DUMP:
-- coast fire
-- importance of automating investments from each and every paycheck - lowest effort for highest return (lazy persons dream), keeps you on track, prevents any tempatations from timing the market or using the money elsewhere, etc. 
-- heres another good one for all you shoppaholics: only buy what you need because no matter how good the deal is, you save 100% of the money you dont spend.  -->

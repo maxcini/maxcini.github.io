@@ -6,12 +6,12 @@
     <description>Recent content in Home on Max Mancini</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build Wealth and Prosper</title>
       <link>http://localhost:1313/posts/buildwealth/</link>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/buildwealth/</guid>
       <description>This post serves as your financial foundation for building wealth in the long term. Discussed below are proven wealth-building principles practiced by successful long-term investors and self-made millionaires.&#xA;Bottom line: save and invest your money.&#xA;Why Become Wealthy?&#xD;#&#xD;The motivation to become wealthy is unique to the individual. Most commonly, reasons to build wealth include:&#xA;Lifestyle Choices: higher quality of life - enjoy greater comfort and financial security, ability to travel and explore hobbies Generational Legacy: better life for your family - safer neighborhoods, top education and healthcare, longstanding prosperity Philothrapic Impact: create positive change - give to those in need, support charity or research to make the world a better place Financial Freedom: buy back your time (most valuable resource) - do whatever you want, whenever you want “Escape the rat race”</description>
     </item>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/makewebsite/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/makewebsite/</guid>
-      <description>This page outlines all of the resources I used to create this website, for free. I&amp;rsquo;ll continue to update this page as I add more to the site.&#xA;Full disclosure: I am not a computer geek. I&amp;rsquo;ve only ever taken one coding class during freshman year of college&amp;hellip; and I hated it.&#xA;But do not fear, you don&amp;rsquo;t have to be a pro programmer to make a website. Most of the layout will already be set up for you to just fill in the blanks.</description>
+      <description>The best reason to write online is to share your ideas, experiences, and lessons with others.&#xA;Here, I&amp;rsquo;ve outlined all the resources I used to build this website. I&amp;rsquo;ll keep this page updated as I add more content and tools.&#xA;Resources&#xD;#&#xD;Static Site Generator (SSG): Hugo An SSG is a perfect solution for a static, blog-focused website primarily composed of just text. They&amp;rsquo;re lightweight and fast, easy to deploy and maintain, and offer great customizability in web design and features.</description>
     </item>
     <item>
       <title>Tufte CSS</title>
