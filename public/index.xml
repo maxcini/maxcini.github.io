@@ -6,8 +6,15 @@
     <description>Recent content in Home on Max Mancini</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invest like Peter Lynch</title>
+      <link>http://localhost:1313/posts/investlikelynch/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/investlikelynch/</guid>
+      <description>This post will summarize the main points from Peter Lynch&amp;rsquo;s book, One Up On Wall Street. Mainly, how to research and value a stock.&#xA;Who was Peter Lynch?&#xD;#&#xD;Peter Lynch is a legendary investor&#xA;Part 1: Preparing to Invest&#xD;#&#xD;Part 2: Picking Winners&#xD;#&#xD;Part 3: The Long-term View&#xD;#&#xD;</description>
+    </item>
     <item>
       <title>Build Wealth and Prosper</title>
       <link>http://localhost:1313/posts/buildwealth/</link>

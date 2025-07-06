@@ -7,7 +7,7 @@ _build:
 
 Welcome! 
 
-I’m Max Mancini, and this is my personal website where I aim to provide useful, data-driven insights. 
+I’m Max Mancini, and this is my personal site where I share data-driven insights on money, tech, and health.
 {{< figure
   src="headshot.webp"
   type="margin"
@@ -18,11 +18,12 @@ I’m Max Mancini, and this is my personal website where I aim to provide useful
   id="myAboutPageLogo" 
 >}}
 
-My goal is to break down complex topics into easy, actionable steps that can significantly benefit you through a writing style that prioritizes: 
+
+I focus on breaking down complex topics into simple, actionable steps that can benefit you through: 
 - Clear and direct information
 - High-quality visuals
 - Engaging storytelling
 
-Around here we'll discuss business, finance, technology, and health. 
+I started this site to share ideas and lessons I’m picking up along the way. Hope you find something helpful.
 
 Enjoy :)

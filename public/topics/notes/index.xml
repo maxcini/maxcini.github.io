@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/makewebsite/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/makewebsite/</guid>
-      <description>The best reason to write online is to share your ideas with others.&#xA;Here, I&amp;rsquo;ve outlined all the resources I used to build this website. I&amp;rsquo;ll keep this page updated as I add more content and tools.&#xA;Resources&#xD;#&#xD;Static Site Generator (SSG): Hugo Since this website is completely static (just text on a screen), an SSG was the perfect solution for customizability and fast responsiveness, while being both easy to deploy and maintain.</description>
+      <description>The best reason to write online is to share your ideas, experiences, and lessons with others.&#xA;Here, I&amp;rsquo;ve outlined all the resources I used to build this website. I&amp;rsquo;ll keep this page updated as I add more content and tools.&#xA;Resources&#xD;#&#xD;Static Site Generator (SSG): Hugo An SSG is a perfect solution for a static, blog-focused website primarily composed of just text. They&amp;rsquo;re lightweight and fast, easy to deploy and maintain, and offer great customizability in web design and features.</description>
     </item>
   </channel>
 </rss>
