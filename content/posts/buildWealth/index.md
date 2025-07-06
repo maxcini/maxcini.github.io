@@ -47,7 +47,7 @@ Some ways to maximize income include:
 
 Minimize expenses by targeting large purchases that have a big impact on spending, such as choosing a modest home and driving a practical car.
 
-Reducing more routine expenses can be done immediately by cutting out unnecessary spending, such as eating out less frequently, canceling subscriptions, and just buying less stuff in general (clothes, gadgets, etc.). 
+Reduce more routine expenses immediately by cutting out unnecessary spending, such as eating out less frequently, canceling subscriptions, and just buying less stuff in general (clothes, gadgets, etc.). 
 
 ---
 
@@ -141,7 +141,7 @@ With your goal in mind, where to start first can be hard. Let's make it easy by 
 
 First, focus on developing healthy financial habits that contribute to reaching your goals, such as following a budget, living below your means, and routinely investing portions of your income. 
 
-For example, pay with cash when you can. Watching the money physically leave your hand creates a stronger psychological connection to your spending, making you more conscious of each purchase. 
+For example, pay with cash when you can. Watching the money physically leave your hand creates a stronger psychological connection to your spending, making you more conscious of each purchase. Don't worry, you're not missing out; nobody gets rich off cash back credit card rewards.
 
 Most importantly, you need to believe in your ability to build wealth, no matter your background. 
 
@@ -255,11 +255,11 @@ To get a more complete picture than just a single snapshot, the visual below sho
 
 By increasing the rolling period, the following trends can be observed: 
 
-- **Consistent long-term returns:** The average rate of return converges towards 6.5% 
+- **Consistent long-term returns:** The average real rate of return converges towards 6.5% 
 - **Less volatility:** The standard deviation of returns decreases
 - **More likely to profit:** The % of periods with positive returns increases
 
-Most importantly, the minimum rate of return becomes positive after 20 years. This means for any 20-year period since 1871, even if you bought the index right before a recession (worst-case scenario), you still would've made money.
+Most importantly, the minimum rate of return becomes positive after 20 years. This means for any 21-year period since 1871, even if you bought the index right before a recession (worst-case scenario), you still would've made money.
 
 This understanding is crucial in developing a deep level of confidence in your investing strategy. Specifically, the ability to weather the storms and avoid selling your investments when times are bad, which is often the worst time to sell. 
 
@@ -282,7 +282,7 @@ For example, consider jumping in and out of the market and missing just the 10 b
 
 Also notice how the best days often happen right after some of the worst days (Great Financial Crisis, Covid Crisis, etc.) when everyone is <a href="burrySell.jpg" target="_blank">telling you to sell</a> and <a href="kiyosakiSell.png" target="_blank">duck for cover</a>.
 
-For these reasons, it's recommended to remain fully invested through good markets and bad. 
+For these reasons, it's recommended to remain fully invested through good markets and bad. The <a href="marketResilience.png" target="_blank">market's resilience</a> is a beautiful thing. 
 
 > "Time in the market > timing the market"
 
