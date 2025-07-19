@@ -86,9 +86,7 @@ caption="Source: Rich Dad Poor Dad"
 label=""
 attr=""
 alt="Cash Flow Patterns diagram showing income, expenses, assets, and liabilities"
-link=""
-
-> }}
+link="" >}}
 
 > “If you don’t find a way to make money while you sleep, you will work until you die.”  
 > -- <cite>Warren Buffet</cite>
@@ -140,7 +138,7 @@ The 4% rule originates from the Trinity study, and results in a ~95% likelihood 
 To put the idea of "enough" more plainly, John Goodman's character <a href="https://www.youtube.com/watch?v=XamC7-Pt8N0&ab_channel=Movieclips" target="_blank">in this scene</a> from the movie _The Gambler_ says it how it is:
 
 {{< blockquote author="Frank, a loan shark" >}}
-"You get up two and a half million dollars, any asshole in the world knows what to do: you get a house with a 25-year roof, an indestructible Jap-economy shitbox, you put the rest into the system at three to five percent to pay your taxes and that's your base, get me? That's your fortress of fucking solitude. That puts you, for the rest of your life, at a level of fuck you.
+"You get up two and a half million dollars, any asshole in the world knows what to do: you get a house with a 25-year roof, an indestructible Jap-economy shitbox, you put the rest into the system at 3-5% to pay your taxes and that's your base, get me? That's your fortress of fucking solitude. That puts you, for the rest of your life, at a level of fuck you.
 
 Somebody wants you to do something, fuck you. Boss pisses you off, fuck you! Own your house. Have a couple bucks in the bank. Don't drink. That's all I have to say to anybody on any social level."
 {{< /blockquote >}}
@@ -179,9 +177,7 @@ title="7 Baby Steps"
 label="label"
 caption="Source: <a href='https://www.ramseysolutions.com/budgeting/how-to-win-with-money-in-7-easy-baby-steps' target='_blank'>Dave Ramsey</a>"
 link=""
-attr=""
-
-> }}
+attr="" >}}
 
 Furthermore, this online flowchart offers greater detail about where to stash the cash first, such as prioritizing tax-advantaged retirement accounts for investments. It's not the holy grail, but it gives you a general idea of what to do when, and what topics you might want to research further.
 
@@ -193,9 +189,7 @@ caption="Source: <a href='https://www.reddit.com/r/financialindependence/comment
 label=""
 attr=""
 alt="Finacial flow chart showing where to put your money first, ranging across sections in: Budget and Essentials, Employer Match and Emergency Fund, Debt Reduction, Health Savings Account, Individual Retirement Account, Additional Savings, Taxable Account and Low-Interest Loans."
-link=""
-
-> }}
+link="" >}}
 
 Each step builds off the other to create a foundation of financial:
 
@@ -228,10 +222,8 @@ title="Warren Buffett"
 caption="The Oracle of Omaha"
 attr=""
 alt="alt"
-link="#"
-
-> }}
-> Warren Buffett, one of the wealthiest and most successful investors ever, advises investors to <a href="https://www.youtube.com/watch?v=y4tITwhEfFE" target="_blank">"consistently buy low-cost S&P 500 index funds through thick and especially thin."</a> For example, Vanguard's <a href="https://investor.vanguard.com/investment-products/mutual-funds/profile/vfiax" target="_blank">VFIAX</a> or Fidelity's <a href="https://fundresearch.fidelity.com/mutual-funds/summary/315911750" target="_blank">FXAIX</a>.
+link="" >}}
+Warren Buffett, one of the wealthiest and most successful investors ever, advises investors to <a href="https://www.youtube.com/watch?v=y4tITwhEfFE" target="_blank">"consistently buy low-cost S&P 500 index funds through thick and especially thin."</a> For example, Vanguard's <a href="https://investor.vanguard.com/investment-products/mutual-funds/profile/vfiax" target="_blank">VFIAX</a> or Fidelity's <a href="https://fundresearch.fidelity.com/mutual-funds/summary/315911750" target="_blank">FXAIX</a>.
 
 Buffett also put his money where his mouth is. Despite leading Berkshire Hathaway to outperform the index for decades, he announced in a <a href="https://www.berkshirehathaway.com/letters/2013ltr.pdf" target="_blank">letter to shareholders</a> that he instructed the trustee of his estate to invest 90% of his money in a very low-cost S&P 500 index fund.
 
@@ -242,10 +234,8 @@ title="Jack Bogle"
 caption="The Father of the Index Fund"
 attr=""
 alt="alt"
-link="#"
-
-> }}
-> Jack Bogle, the creator of the index fund, famously said, <a href="https://www.youtube.com/watch?v=65FIl71bZKQ" target="_blank">"Buy everything and hold it forever."</a> The <a href="https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy" target="_blank">Boglehead investment philosophy</a> builds on this idea by supplementing U.S. stocks with bonds and international funds for greater stability and diversification.
+link="" >}}
+Jack Bogle, the creator of the index fund, famously said, <a href="https://www.youtube.com/watch?v=65FIl71bZKQ" target="_blank">"Buy everything and hold it forever."</a> The <a href="https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy" target="_blank">Boglehead investment philosophy</a> builds on this idea by supplementing U.S. stocks with bonds and international funds for greater stability and diversification.
 
 Ultimately, what index fund(s) you choose and how much you invest in each fund depends on your financial goals, risk tolerance, and time horizon.
 
@@ -282,9 +272,9 @@ Observe that for any 1-year period, the minimum return (or maximum drawdown) is 
 
 Historically, there have been <a href="https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes" target="_blank">19 stock market crashes since 1871</a> (-20% drawdown or more), averaging out to about 1 crash per decade. Since some crashes can take multiple years to recover and reach new highs, you should only invest money that you do not need in the short term.
 
-Despite these periods of volatility and downturns, the market has always recovered and continued to grow in the long run. No matter good markets or bad, the most likely way to achieve the highest returns is to remain fully invested. This is because it is impossible to time the market and predict if and when stocks are going to go up or down.
+Despite periods of volatility and downturns, the market has always recovered and continued to grow in the long run. No matter good markets or bad, the most likely way to achieve the highest returns is to remain fully invested. This is because it is impossible to consistently time the market and predict if and when stocks will rise or fall. 
 
-For example, consider jumping in and out of the market and missing just the 10 best days in a 20-year period. Your total returns would be cut by more than half!
+Even if you could somehow predict price movement, you'd have to be right twice: selling before a crash and then buying back in before the subsequent rally. For example, consider jumping in and out of the market and missing just the 10 best days in this 20-year period below. Your total returns would be cut by more than half!
 
 {{< figure
 src="10best.jpeg"
@@ -292,11 +282,9 @@ title="Cost of Timing the Market"
 label="label"
 caption="Source: <a href='https://www.visualcapitalist.com/chart-timing-the-market/' target='_blank'>Visual Capitalist</a>"
 link=""
-attr=""
+attr="" >}}
 
-> }}
-
-Also notice how the best days often happen right after some of the worst days (Great Financial Crisis, Covid Crisis, etc.) when everyone is <a href="burrySell.jpg" target="_blank">telling you to sell</a> and <a href="kiyosakiSell.png" target="_blank">duck for cover</a>.
+Also notice how the best days often happen right after some of the worst days (Great Financial Crisis, Covid Crisis, etc.) when everyone is <a href="burrySell.jpg" target="_blank">telling you to sell</a> and <a href="kiyosakiSell.png" target="_blank">duck for cover</a>. 
 
 For these reasons, it's recommended to remain fully invested through good markets and bad. The <a href="marketResilience.png" target="_blank">market's resilience</a> is a beautiful thing.
 
