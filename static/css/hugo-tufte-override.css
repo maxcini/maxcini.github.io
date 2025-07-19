@@ -140,10 +140,16 @@ ul {
 }
 
 p {
+    line-height: 2rem;
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline;
+    hyphens: auto;
+    -webkit-hyphenate-limit-before: 3;
+    -webkit-hyphenate-limit-after: 4;
+    -ms-hyphenate-limit-chars: 10 3 4;
+    hyphenate-limit-chars: 10 3 4;
 }
 
 /* Chapter Epigraphs */
@@ -205,6 +211,10 @@ li, dt, dd {
     overflow-wrap: normal; 
     word-break: normal; 
     hyphens: auto;
+    -webkit-hyphenate-limit-before: 3;
+    -webkit-hyphenate-limit-after: 4;
+    -ms-hyphenate-limit-chars: 10 3 4;
+    hyphenate-limit-chars: 10 3 4;
 }
 
 dt:not(:first-child),
@@ -404,8 +414,8 @@ label.margin-toggle:not(.sidenote-number) {
     body {
         width: 90%;
         /* adjust mobile article margins */
-        padding-left: 3%;
-        padding-right: 3%;
+        padding-left: 5%;
+        padding-right: 5%;
     }
 
     hr,
